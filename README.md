@@ -2,7 +2,7 @@
 code for our NAACL 2019 paper "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis".
 
 ## Problem to Solve
-We focus on 3 review-based tasks.
+We focus on 3 review-based tasks: RRC, AE and ASC.
 
 ## Environment
 The code is tested on Python 3.6.8, PyTorch 1.0.1 and [pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT) 0.4. 
