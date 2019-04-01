@@ -1,4 +1,4 @@
-# BERT for Review Reading Comprehension and Aspect-based Sentiment Analysis and Aspect-based Sentiment Analysis
+# BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis and Aspect-based Sentiment Analysis
 code for our NAACL 2019 paper "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis".
 
 ## Problem to Solve
