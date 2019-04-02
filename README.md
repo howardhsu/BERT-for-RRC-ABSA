@@ -1,4 +1,4 @@
-# BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis and Aspect-based Sentiment Analysis
+# BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
 code for our NAACL 2019 paper "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis".
 
 ## Problem to Solve
@@ -14,6 +14,7 @@ Fine-tuning code is tested without using apex 0.1 to ensure stability.
 This repository is still under development.
 
 ## TODO:
+- [ ] data for RRC.
 - [ ] preprocessed data
 - [ ] pretained model
 - [ ] post-training code
