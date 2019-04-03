@@ -10,7 +10,7 @@ if ! [ -z $4 ] ; then
 fi
 
 
-. /home/huxu/anaconda2/etc/profile.d/conda.sh
+#. /home/huxu/anaconda2/etc/profile.d/conda.sh
 
 #conda activate p3-torch10
 
