@@ -31,6 +31,7 @@ This repository is still under development.
 
 ## Citation
 If you find this work useful, please cite as following.
+```
 @inproceedings{xu_bert2019,
     title = "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
     author = "Xu, Hu  and
@@ -41,3 +42,4 @@ If you find this work useful, please cite as following.
     month = jun,
     year = "2019",
 }
+'''
