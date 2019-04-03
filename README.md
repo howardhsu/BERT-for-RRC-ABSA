@@ -1,10 +1,13 @@
 # BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
-code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis]()".
+code for our NAACL 2019 paper "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis".
 
 ## Problem to Solve
 We focus on 3 review-based tasks: review reading comprehension (RRC), aspect extraction (AE) and aspect sentiment classification (ASC).
+
 RRC: given a question ("how is the retina display ?") and a review ("The retina display is great.") find an answer span ("great") from that review;
+
 AE: given a review sentence ("The retina display is great."), find aspects("retina display");
+
 ASC: given an aspect ("retina display") and a review sentence ("The retina display is great."), detect the polarity of that aspect (positive).
 
 ## Environment
@@ -23,13 +26,13 @@ Our evaluation wrapper code is written in ipython notebook ```eval/eval.ipynb```
 But you are free to call the evaluation code of each task separately.
 AE ```eval/evaluate_ae.py``` additionally needs Java JRE/JDK to be installed.
 
-### fine-tuning setup
+## Fine-tuning setup
 
 step1: make 2 folders for post-training and fine-tuning.
 ```
 mkdir -p pt_model ; mkdir -p run
 ```
-step2: place post-trained BERT into pt_model. The post-trained Laptop weights can be download [here]() and restaurant [here](). You are free to download other BERT weights into this folder(e.g., [bert-base]() ). Make sure to add an entry into ```src/modelconfig.py```.
+step2: place post-trained BERTs into ```pt_model/```. Our post-trained Laptop weights can be download [here]() and restaurant [here](). You are free to download other BERT weights into this folder(e.g., [bert-base]() ). Make sure to add an entry into ```src/modelconfig.py```.
 
 step3: make 3 folders for 3 tasks: 
 ```
@@ -42,7 +45,7 @@ step4: fire a fine-tuning from a BERT weight, e.g.
 cd script
 bash run_rrc.sh rrc laptop_pt laptop pt_rrc 10 0
 ```
-Here rrc is the task to run, laptop_pt is the post-trained weights for laptop, laptop is the domain, pt_rrc is the folder in ```run``` and 10 means run 10 times, 0 means gpu-0.
+Here rrc is the task to run, laptop_pt is the post-trained weights for laptop, laptop is the domain, pt_rrc is the fine-tuned folder in ```run/```, 10 means run 10 times and 0 means use gpu-0.
 
 similarly,
 ```
@@ -53,7 +56,7 @@ bash run_absa.sh asc laptop_pt laptop pt_asc 10 0
 bash run_absa.sh asc rest_pt rest pt_asc 10 0
 ```
 
-### post-training setup
+## Post-training setup
 
 This repository is still under development.
 
