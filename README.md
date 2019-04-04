@@ -32,13 +32,11 @@ step1: make 2 folders for post-training and fine-tuning.
 ```
 mkdir -p pt_model ; mkdir -p run
 ```
-step2: place post-trained BERTs into ```pt_model/```. Our post-trained Laptop weights can be download [here]() and restaurant [here](). You are free to download other BERT weights into this folder(e.g., [bert-base]() ). Make sure to add an entry into ```src/modelconfig.py```.
+step2: place post-trained BERTs into ```pt_model/```. Our post-trained Laptop weights can be download [here](https://drive.google.com/file/d/1io-_zVW3sE6AbKgHZND4Snwh-wi32L4K/view?usp=sharing) and restaurant [here](https://drive.google.com/file/d/1TYk7zOoVEO8Isa6iP0cNtdDFAUlpnTyz/view?usp=sharing). You are free to download other BERT weights into this folder(e.g., bert-base). Make sure to add an entry into ```src/modelconfig.py```.
 
 step3: make 3 folders for 3 tasks: 
-```
-mkdir -p rrc ; mkdir -p ae ; mkdir -p asc
-```
-place fine-tuning data to each respective folder. [rrc](), [ae](), [asc]().
+
+place fine-tuning data to each respective folder: ```rrc/, ae/, asc/```. A pre-processed data in json format can be found [here](https://drive.google.com/file/d/1NGH5bqzEx6aDlYJ7O3hepZF4i_p4iMR8/view?usp=sharing).
 
 step4: fire a fine-tuning from a BERT weight, e.g.
 ```
@@ -55,6 +53,20 @@ bash run_absa.sh ae rest_pt rest pt_ae 10 0
 bash run_absa.sh asc laptop_pt laptop pt_asc 10 0
 bash run_absa.sh asc rest_pt rest pt_asc 10 0
 ```
+step5: evaluation
+RRC: download SQuAD 1.1 evaluation script ([e.g.](https://github.com/allenai/bi-att-flow/blob/master/squad/evaluate-v1.1.py) ) to ```eval/```.
+
+AE: place official evaluation .jar files as ```eval/A.jar``` and ```eval/eval.jar```.
+place testing xml files as (the step 4 of [this](https://github.com/howardhsu/DE-CNN) has a similar setup)
+```
+ae/official_data/Laptops_Test_Gold.xml
+ae/official_data/Laptops_Test_Data_PhaseA.xml
+ae/official_data/EN_REST_SB1_TEST.xml.gold
+ae/official_data/EN_REST_SB1_TEST.xml.A
+```
+ASC: built-in as part of ```eval/eval.ipynb```
+
+open ```result.ipynb``` and run as you wish
 
 ## Post-training setup
 
@@ -71,7 +83,7 @@ If you find this work useful, please cite as following.
 ```
 @inproceedings{xu_bert2019,
     title = "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
-    author = "Xu, Hu  and Liu, Bing and Shu, Lei and Yu, Philip S.",
+    author = "Xu, Hu and Liu, Bing and Shu, Lei and Yu, Philip S.",
     booktitle = "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics",
     month = jun,
     year = "2019",
