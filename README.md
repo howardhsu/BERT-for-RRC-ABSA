@@ -54,6 +54,7 @@ bash run_absa.sh asc laptop_pt laptop pt_asc 10 0
 bash run_absa.sh asc rest_pt rest pt_asc 10 0
 ```
 step5: evaluation
+
 RRC: download SQuAD 1.1 evaluation script ([e.g.](https://github.com/allenai/bi-att-flow/blob/master/squad/evaluate-v1.1.py) ) to ```eval/```.
 
 AE: place official evaluation .jar files as ```eval/A.jar``` and ```eval/eval.jar```.
