@@ -1,6 +1,8 @@
 # BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
 code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](http://arxiv.org/abs/1904.02232)".
 
+***feedback are welcomed for missing instructions ***
+
 ## Problem to Solve
 We focus on 3 review-based tasks: review reading comprehension (RRC), aspect extraction (AE) and aspect sentiment classification (ASC).
 
@@ -71,12 +73,25 @@ open ```result.ipynb``` and run as you wish
 
 ## Post-training setup
 
-This repository is still under development.
+Assume you are on the root folder of this repository.
 
-## TODO:
-- [ ] data for RRC.
-- [ ] preprocessed data
-- [ ] pretained model
+step1: domain post-training data:
+
+Download pre-processed data from [here](https://drive.google.com/file/d/1s_-OFh7qBWmzA9ths3mf7IYN1P2WrXMo/view?usp=sharing) and place it under the root folder.
+
+Alternatively you can create your own data. For example for laptop, ```mkdir -p domain_corpus ; mkdir -p domain_corpus/laptop ; mkdir -p domain_corpus/raw```. Place newline separated reviews laptop.txt as ```domain_corpus/raw/laptop.txt```
+The script in step3 will detect if your ```.npz``` is unavailable under domain_corpus/laptop then it will start to preprocess ```domain_corpus/raw/laptop.txt``` first.
+
+step2: MRC post-training data:
+
+Place and rename [SQuAD 1.1](https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v1.1.json) (for consistency with other review-based tasks) as ```squad/train.json```.
+
+step3: preprocessing and post-training
+
+```
+bash ../script/pt.sh laptop 5 70000 0
+bash ../script/pt.sh rest 1 140000 0
+```
 
 
 ## Citation
@@ -86,7 +101,7 @@ If you find this work useful, please cite as following.
     title = "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
     author = "Xu, Hu and Liu, Bing and Shu, Lei and Yu, Philip S.",
     booktitle = "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics",
-    month = jun,
+    month = "jun",
     year = "2019",
 }
 ```
