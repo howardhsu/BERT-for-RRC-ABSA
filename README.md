@@ -1,7 +1,7 @@
 # BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
 code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](http://arxiv.org/abs/1904.02232)".
 
-***feedback are welcomed for missing instructions ***
+***feedbacks are welcomed for missing instructions ***
 
 ## Problem to Solve
 We focus on 3 review-based tasks: review reading comprehension (RRC), aspect extraction (AE) and aspect sentiment classification (ASC).
@@ -89,8 +89,8 @@ Place and rename [SQuAD 1.1](https://rajpurkar.github.io/SQuAD-explorer/dataset/
 step3: preprocessing and post-training
 
 ```
-bash ../script/pt.sh laptop 5 70000 0
-bash ../script/pt.sh rest 1 140000 0
+bash pt.sh laptop 5 70000 0
+bash pt.sh rest 1 140000 0
 ```
 
 
