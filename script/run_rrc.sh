@@ -6,7 +6,7 @@ domain=$3
 run_dir=$4
 runs=$5
 
-#. /home/huxu/anaconda2/etc/profile.d/conda.sh
+#. ~/anaconda2/etc/profile.d/conda.sh
 
 #conda activate p3-torch10
 
