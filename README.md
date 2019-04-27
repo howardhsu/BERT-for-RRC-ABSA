@@ -15,7 +15,7 @@ ASC: given an aspect ("retina display") and a review sentence ("The retina displ
 ## Environment
 
 ### fine-tuning
-The code is tested on Python 3.6.8, PyTorch 1.0.1 and [pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT) 0.4. 
+The code is tested on Ubuntu 16.04 with Python 3.6.8(Anaconda), PyTorch 1.0.1 and [pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT) 0.4. 
 We suggest make an anaconda environment for all packages and uncomment environment setup in ```script/run_rrc.sh script/run_absa.sh script/pt.sh```.
 
 ### post-training
