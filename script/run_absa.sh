@@ -33,7 +33,7 @@ do
 
     if ! [ -e $OUTPUT_DIR/"predictions.json" ] ; then 
         python ../src/run_$task.py \
-            --do_eval --max_seq_length 100 \
+            --bert_model $bert --do_eval --max_seq_length 100 \
             --output_dir $OUTPUT_DIR --data_dir $DATA_DIR --seed $run > $OUTPUT_DIR/test_log.txt 2>&1
     fi
     if [ -e $OUTPUT_DIR/"predictions.json" ] && [ -e $OUTPUT_DIR/model.pt ] ; then

@@ -33,7 +33,7 @@ do
 
     if ! [ -e $OUTPUT_DIR/"predictions.json" ] ; then 
         python ../src/run_rrc.py \
-            --do_eval --max_seq_length 320 \
+            --bert_model $bert --do_eval --max_seq_length 320 \
             --output_dir $OUTPUT_DIR --data_dir $DATA_DIR --seed $run > $OUTPUT_DIR/test_log.txt 2>&1
 
     fi
