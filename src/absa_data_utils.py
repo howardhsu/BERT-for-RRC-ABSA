@@ -17,7 +17,6 @@
 import json
 import os
 from collections import defaultdict
-import nltk
 import random
 
 from pytorch_pretrained_bert.tokenization import BertTokenizer
