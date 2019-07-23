@@ -122,4 +122,4 @@ def parse_SemEval16(fn):
                     pt+=1
         sent_tokens.append(tokens)
         sent_labels.append(lb)
-    return 
+    return sent_tokens, sent_labels
