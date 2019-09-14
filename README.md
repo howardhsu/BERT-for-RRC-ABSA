@@ -34,7 +34,7 @@ step1: make 2 folders for post-training and fine-tuning.
 ```
 mkdir -p pt_model ; mkdir -p run
 ```
-step2: place post-trained BERTs into ```pt_model/```. Our post-trained Laptop weights can be download [here](https://drive.google.com/file/d/1io-_zVW3sE6AbKgHZND4Snwh-wi32L4K/view?usp=sharing) and restaurant [here](https://drive.google.com/file/d/1TYk7zOoVEO8Isa6iP0cNtdDFAUlpnTyz/view?usp=sharing). You are free to download other BERT weights into this folder(e.g., bert-base). Make sure to add an entry into ```src/modelconfig.py```.
+step2: place post-trained BERTs into ```pt_model/```. Our post-trained Laptop weights can be download [here](https://drive.google.com/file/d/1io-_zVW3sE6AbKgHZND4Snwh-wi32L4K/view?usp=sharing) and restaurant [here](https://drive.google.com/file/d/1TYk7zOoVEO8Isa6iP0cNtdDFAUlpnTyz/view?usp=sharing). You are free to download other BERT weights into this folder(e.g., bert-base, BERT-DK ([laptop](https://drive.google.com/file/d/1TRjvi9g3ex7FrS2ospUQvF58b11z0sw7/view?usp=sharing), [restaurant](https://drive.google.com/file/d/1nS8FsHB2d-s-ue5sDaWMnc5s2U1FlcMT/view?usp=sharing)) in our paper). Make sure to add an entry into ```src/modelconfig.py```.
 
 step3: make 3 folders for 3 tasks: 
 
