@@ -3,6 +3,7 @@ code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehens
 
 ## News
 A conversational dataset of RRC can be found [here](https://github.com/howardhsu/RCRC).  
+If you only care about ASC, a more formal code base can be found in a [similar rep](https://github.com/howardhsu/ASC_failure) focusing on ASC.
 **feedbacks are welcomed for missing instructions **
 
 ## Problem to Solve
