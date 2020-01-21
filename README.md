@@ -1,5 +1,5 @@
 # BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
-code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](http://arxiv.org/abs/1904.02232)".
+code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)".
 
 ## News
 A conversational dataset of RRC can be found [here](https://github.com/howardhsu/RCRC).  
