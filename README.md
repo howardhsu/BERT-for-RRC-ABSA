@@ -1,7 +1,10 @@
 # BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
-code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](http://arxiv.org/abs/1904.02232)".
+code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)".
 
-***feedbacks are welcomed for missing instructions ***
+## News
+A conversational dataset of RRC can be found [here](https://github.com/howardhsu/RCRC).  
+If you only care about ASC, a more formal code base can be found in a [similar rep](https://github.com/howardhsu/ASC_failure) focusing on ASC.
+**feedbacks are welcomed for missing instructions **
 
 ## Problem to Solve
 We focus on 3 review-based tasks: review reading comprehension (RRC), aspect extraction (AE) and aspect sentiment classification (ASC).
@@ -14,21 +17,21 @@ ASC: given an aspect ("retina display") and a review sentence ("The retina displ
 
 ## Environment
 
-### fine-tuning
-The code is tested on Ubuntu 16.04 with Python 3.6.8(Anaconda), PyTorch 1.0.1 and [pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT) 0.4. 
+### Fine-tuning
+The code is tested on Ubuntu 16.04 with Python 3.6.8(Anaconda), PyTorch 1.0.1 and [pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT) 0.4. (sorry for the extreme old version of this library, we will release a newer version in the first half of 2020.)
 We suggest make an anaconda environment for all packages and uncomment environment setup in ```script/run_rrc.sh script/run_absa.sh script/pt.sh```.
 
-### post-training
+### Post-training
 The post-training code additionally use [apex](https://github.com/NVIDIA/apex) 0.1 to speed up training on FP16, which is compiled with PyTorch 1.0.1(py3.6_cuda10.0.130_cudnn7.4.2_2) and CUDA 10.0.130 on RTX 2080 Ti. It is possible to avoid use GPUs that do not support apex (e.g., 1080 Ti), but need to adjust the max sequence length and number of gradient accumulation but (although the result can be better). 
 
 Fine-tuning code is tested without using apex 0.1 to ensure stability.
 
-### evaluation
+### Evaluation
 Our evaluation wrapper code is written in ipython notebook ```eval/eval.ipynb```. 
 But you are free to call the evaluation code of each task separately.
 AE ```eval/evaluate_ae.py``` additionally needs Java JRE/JDK to be installed.
 
-## Fine-tuning setup
+## Fine-tuning Setup
 
 step1: make 2 folders for post-training and fine-tuning.
 ```
@@ -38,7 +41,7 @@ step2: place post-trained BERTs into ```pt_model/```. Our post-trained Laptop we
 
 step3: make 3 folders for 3 tasks: 
 
-place fine-tuning data to each respective folder: ```rrc/, ae/, asc/```. A pre-processed data in json format can be found [here](https://drive.google.com/file/d/1NGH5bqzEx6aDlYJ7O3hepZF4i_p4iMR8/view?usp=sharing).
+place fine-tuning data to each respective folder: ```rrc/, ae/, asc/```. A pre-processed data in json format is in `data/json_data.tar.gz`, or can be downloaded [here](https://drive.google.com/file/d/1NGH5bqzEx6aDlYJ7O3hepZF4i_p4iMR8/view?usp=sharing).
 
 step4: fire a fine-tuning from a BERT weight, e.g.
 ```
@@ -71,7 +74,7 @@ ASC: built-in as part of ```eval/eval.ipynb```
 
 open ```result.ipynb``` and run as you wish
 
-## Post-training setup
+## Post-training Setup
 
 Assume you are on the root folder of this repository.
 
