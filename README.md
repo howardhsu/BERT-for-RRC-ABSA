@@ -3,6 +3,7 @@ code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehens
 
 ## News
 [Instructions](transformers.md) on migrating to `transformers` from `pytorch-pretrained-bert`.  
+Preprocessing ABSA xmls organized into a separate [rep](https://github.com/howardhsu/ABSA_preprocessing).  
 Want to have post-trained models for other domains in reviews ? checkout a [cross-domain review BERT](amazon_yelp.md) or download from [HERE](https://drive.google.com/file/d/1YbiI9W3acj4d9JbCbu_SmRjz_tNyShYV/view?usp=sharing).   
 A conversational dataset of RRC can be found [here](https://github.com/howardhsu/RCRC).  
 If you only care about ASC, a more formal code base can be found in a [similar rep](https://github.com/howardhsu/ASC_failure) focusing on ASC.
