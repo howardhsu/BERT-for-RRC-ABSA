@@ -2,9 +2,9 @@
 code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)".
 
 ## News
-[Instructions](transformers.md) on migrating to `transformers` from `pytorch-pretrained-bert`.  
+[Code base](transformers.md) on huggingface `transformers` is under `transformers`, with more cross-domain models.  
 Preprocessing ABSA xmls organized into a separate [rep](https://github.com/howardhsu/ABSA_preprocessing).  
-Want to have post-trained models for other domains in reviews ? checkout a [cross-domain review BERT](amazon_yelp.md) or download from [HERE](https://drive.google.com/file/d/1YbiI9W3acj4d9JbCbu_SmRjz_tNyShYV/view?usp=sharing).   
+Want to have post-trained models for other domains in reviews ? checkout a [cross-domain review BERT](transformers/amazon_yelp.md) or download from [HERE](https://drive.google.com/file/d/1YbiI9W3acj4d9JbCbu_SmRjz_tNyShYV/view?usp=sharing).   
 A conversational dataset of RRC can be found [here](https://github.com/howardhsu/RCRC).  
 If you only care about ASC, a more formal code base can be found in a [similar rep](https://github.com/howardhsu/ASC_failure) focusing on ASC.
 **feedbacks are welcomed for missing instructions **
@@ -18,87 +18,12 @@ AE: given a review sentence ("The retina display is great."), find aspects("reti
 
 ASC: given an aspect ("retina display") and a review sentence ("The retina display is great."), detect the polarity of that aspect (positive).
 
-## Environment
+[E2E-ABSA](https://github.com/lixin4ever/E2E-TBSA): the combination of the above two tasks as a sequence labeling task.
 
-### Fine-tuning
-The code is tested on Ubuntu 16.04 with Python 3.6.8(Anaconda), PyTorch 1.0.1 and [pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT) 0.4. (sorry for the extreme old version of this library, we will release a newer version in the first half of 2020.)
-We suggest make an anaconda environment for all packages and uncomment environment setup in ```script/run_rrc.sh script/run_absa.sh script/pt.sh```.
 
-### Post-training
-The post-training code additionally use [apex](https://github.com/NVIDIA/apex) 0.1 to speed up training on FP16, which is compiled with PyTorch 1.0.1(py3.6_cuda10.0.130_cudnn7.4.2_2) and CUDA 10.0.130 on RTX 2080 Ti. It is possible to avoid use GPUs that do not support apex (e.g., 1080 Ti), but need to adjust the max sequence length and number of gradient accumulation but (although the result can be better). 
-
-Fine-tuning code is tested without using apex 0.1 to ensure stability.
-
-### Evaluation
-Our evaluation wrapper code is written in ipython notebook ```eval/eval.ipynb```. 
-But you are free to call the evaluation code of each task separately.
-AE ```eval/evaluate_ae.py``` additionally needs Java JRE/JDK to be installed.
-
-## Fine-tuning Setup
-
-step1: make 2 folders for post-training and fine-tuning.
-```
-mkdir -p pt_model ; mkdir -p run
-```
-step2: place post-trained BERTs into ```pt_model/```. Our post-trained Laptop weights can be download [here](https://drive.google.com/file/d/1io-_zVW3sE6AbKgHZND4Snwh-wi32L4K/view?usp=sharing) and restaurant [here](https://drive.google.com/file/d/1TYk7zOoVEO8Isa6iP0cNtdDFAUlpnTyz/view?usp=sharing). You are free to download other BERT weights into this folder(e.g., bert-base, BERT-DK ([laptop](https://drive.google.com/file/d/1TRjvi9g3ex7FrS2ospUQvF58b11z0sw7/view?usp=sharing), [restaurant](https://drive.google.com/file/d/1nS8FsHB2d-s-ue5sDaWMnc5s2U1FlcMT/view?usp=sharing)) in our paper). Make sure to add an entry into ```src/modelconfig.py```.
-
-step3: make 3 folders for 3 tasks: 
-
-place fine-tuning data to each respective folder: ```rrc/, ae/, asc/```. A pre-processed data in json format is in `data/json_data.tar.gz`, or can be downloaded [here](https://drive.google.com/file/d/1NGH5bqzEx6aDlYJ7O3hepZF4i_p4iMR8/view?usp=sharing).
-
-step4: fire a fine-tuning from a BERT weight, e.g.
-```
-cd script
-bash run_rrc.sh rrc laptop_pt laptop pt_rrc 10 0
-```
-Here rrc is the task to run, laptop_pt is the post-trained weights for laptop, laptop is the domain, pt_rrc is the fine-tuned folder in ```run/```, 10 means run 10 times and 0 means use gpu-0.
-
-similarly,
-```
-bash run_rrc.sh rrc rest_pt rest pt_rrc 10 0
-bash run_absa.sh ae laptop_pt laptop pt_ae 10 0
-bash run_absa.sh ae rest_pt rest pt_ae 10 0
-bash run_absa.sh asc laptop_pt laptop pt_asc 10 0
-bash run_absa.sh asc rest_pt rest pt_asc 10 0
-```
-step5: evaluation
-
-RRC: download SQuAD 1.1 evaluation script ([e.g.](https://github.com/allenai/bi-att-flow/blob/master/squad/evaluate-v1.1.py) ) to ```eval/```.
-
-AE: place official evaluation .jar files as ```eval/A.jar``` and ```eval/eval.jar```.
-place testing xml files as (the step 4 of [this](https://github.com/howardhsu/DE-CNN) has a similar setup)
-```
-ae/official_data/Laptops_Test_Gold.xml
-ae/official_data/Laptops_Test_Data_PhaseA.xml
-ae/official_data/EN_REST_SB1_TEST.xml.gold
-ae/official_data/EN_REST_SB1_TEST.xml.A
-```
-ASC: built-in as part of ```eval/eval.ipynb```
-
-open ```result.ipynb``` and run as you wish
-
-## Post-training Setup
-
-Assume you are on the root folder of this repository.
-
-step1: domain post-training data:
-
-Download pre-processed data from [here](https://drive.google.com/file/d/1s_-OFh7qBWmzA9ths3mf7IYN1P2WrXMo/view?usp=sharing) and place it under the root folder.
-
-Alternatively you can create your own data. For example for laptop, ```mkdir -p domain_corpus ; mkdir -p domain_corpus/laptop ; mkdir -p domain_corpus/raw```. Place newline separated reviews laptop.txt as ```domain_corpus/raw/laptop.txt```
-The script in step3 will detect if your ```.npz``` is unavailable under domain_corpus/laptop then it will start to preprocess ```domain_corpus/raw/laptop.txt``` first.
-
-step2: MRC post-training data:
-
-Place and rename [SQuAD 1.1](https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v1.1.json) (for consistency with other review-based tasks) as ```squad/train.json```.
-
-step3: preprocessing and post-training
-
-```
-bash pt.sh laptop 5 70000 0
-bash pt.sh rest 1 140000 0
-```
-
+## Code Base
+Now the code base is splited into two versions: `transformers/` ([instructions](transformers.md)) and `pytorch-pretrained-bert/` ([instructions](pytorch-pretrained-bert.md)). 
+Please check corresponding instructions for details.
 
 ## Citation
 If you find this work useful, please cite as following.
