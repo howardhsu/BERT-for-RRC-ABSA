@@ -1,0 +1,2875 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "context": "It was too cheaply constructed . It also gave me an introduction to Windows 8 , which I hope will be discontinued it the future .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 7, 
+                                    "text": "too cheaply"
+                                }
+                            ], 
+                            "id": "10302_0", 
+                            "question": "how is the build quality ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_316_A3L8EIJHMTXINF"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The glare of the glossy-retina display is unbearable . Do not buy a mac until this issue is resolved .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 42, 
+                                    "text": "unbearable"
+                                }
+                            ], 
+                            "id": "10289_0", 
+                            "question": "do you like the retina display ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B0096VDM8G_27_A11NFW8ZFX723Z"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "No laptop is perfect , but sometimes you just find a computer that works for you . This laptop does everything I need it to very well . I bought this laptop so that the entire family had a computer in the living room ; the two of us use it regularly . I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV . The best thing about this laptop is the price along with some of the newer features . The screen is bright and the keyboard is nice ; I find myself using the 10-key more than I thought I would . Battery is lasting about 6 hours as I am surfing the web on Sundays while checking football scores and watching funny Youtube videos . For those that care about noise this thing does n't really make any ; the i3 processor does n't seem to run hot and the fan rarely turns on . I took off a star because the machine has a lot of junk software on it . I wish Toshiba would allow their customers to select an option that only boots the OS at setup and removes all the unnecessary stuff . Once I removed all the software the laptop loads in 15-20 seconds . This is not a serious gaming laptop or a serious media machine ; my niece and nephew have played a few web games and it runs anything that does n't require a dedicated video card . Overall I am very satisfied with the purchase . I looked around and based off my price/features comparison from a brand I trusted I landed here .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 471, 
+                                    "text": "bright"
+                                }
+                            ], 
+                            "id": "10098_0", 
+                            "question": "how is the screen ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 498, 
+                                    "text": "nice"
+                                }
+                            ], 
+                            "id": "10098_1", 
+                            "question": "how is the keyboard ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "394"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Hands down one of my best and most used purchases thus far . The Mid-2014 MacBook Pro does no disappoint ... Retina screen , solid build quality , weight , fast processor and the reliability of the Apple brand . Cons : Honestly zero con 's ... as a Windows PC user the switch over was seamlessly , I run Parallel when I need Windows . All my devices work flawlessly .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 109, 
+                                    "text": "Retina"
+                                }
+                            ], 
+                            "id": "10433_0", 
+                            "question": "does it have retina display ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 125, 
+                                    "text": "solid"
+                                }
+                            ], 
+                            "id": "10433_1", 
+                            "question": "how is the build quality ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 156, 
+                                    "text": "fast"
+                                }
+                            ], 
+                            "id": "10433_2", 
+                            "question": "how is the processor ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B0096VDM8G_45_A2SPGNGEHWEP8R"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "BOUGHT FROM WAL-MART , I BELIEVE THAT THIS LAPTOP WAS A REPAIRED ITEM . THIS LAPTOP WAS BAD FROM THE FIRST DAY OF USE -- -- BROUGHT IT BACK TO STORE FOR RETURN OF MONEY . NOW AM VERY APREHENSIVE ABOUT TOSHIBA LAPTOPS . WILL NOT EVERY BUY ANOTHER -- -- -- -- LOU", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 88, 
+                                    "text": "BAD"
+                                }
+                            ], 
+                            "id": "10140_0", 
+                            "question": "how is the laptop ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "320"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Needs constant repair . First the screen goes completely out . Then HP sends it back to me with the hardware screwed up , not able to connect . Now the screen is going darker , darker , darker . HP is more interested in selling extended warranties ( which cost more than the netbook new ) then they are in helping or fixing . Oh yeah , do n't forget the expensive shipping to and from HP . I'v spent as much for shipping as I would to buy a new netbook -- of course a different brand .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 34, 
+                                    "text": "screen goes completely out"
+                                }
+                            ], 
+                            "id": "10195_0", 
+                            "question": "anything wrong with this computer ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "50"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Biggest piece of junk I have ever purchased . Bought it for my wife as a birthday present having owned a Dell in the past which was a great computer . This clunker however stopped working after only two weeks of having it delivered . It would have a full charge yet would turn itself off for no explainable reason after being on for 5 minutes . I promptly sent it back for an exchange thinking this was just a bad one and surely the next one would be fine . The second one , after a little over a month , refused to turn on even with a full charge . And I have pictures on there with no way to retrieve them ! What a lemon ! !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 188, 
+                                    "text": "after only two weeks of having it delivered"
+                                }
+                            ], 
+                            "id": "10404_0", 
+                            "question": "how long does it work before it stops working ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_221_A4YVKTRE1Z1OU"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "beautifully done , the computer is amazingly faster compared to other version of macbook pro i have had in the past . I am also glad it doesnt get too hot when left on for an extended period of time . The battery life is good , even with using high profile software like Sibelius 7 for a good half of the day . Overall , the performance and specs are definitely great for the price compared to other laptop of the same price , which make this Apple purchase a worthwhile one .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "beautifully done"
+                                }
+                            ], 
+                            "id": "10326_0", 
+                            "question": "how is the look ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 35, 
+                                    "text": "amazingly faster compared to other version of macbook pro i have had in the past"
+                                }
+                            ], 
+                            "id": "10326_1", 
+                            "question": "how is the speed compared to old versions of macbook pro ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 221, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "10326_2", 
+                            "question": "what do you think about its battery life ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B0096VDM8G_53_A13B85KZRCDWJZ"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This product was DOA . Fired up and worked for the first day and then the display died on my wife while she was taking a timed test . Would not recommend .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 36, 
+                                    "text": "worked for the first day and then the display died"
+                                }
+                            ], 
+                            "id": "10306_0", 
+                            "question": "how is the display ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 134, 
+                                    "text": "Would not"
+                                }
+                            ], 
+                            "id": "10306_1", 
+                            "question": "would you recommend this product ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_284_A3FA96H7RRL740"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "One of the very few laptops still available with Win 7 Pro , multiple USB ports , and a DVD read/write drive . Only drawback is no LED to show when the hard drive is being accessed . Not a necessity , but something I 've come to expect . Does what I need it to do and the price was right !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 49, 
+                                    "text": "Win 7 Pro"
+                                }
+                            ], 
+                            "id": "10337_0", 
+                            "question": "which version of windows does it have ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 61, 
+                                    "text": "multiple"
+                                }
+                            ], 
+                            "id": "10337_1", 
+                            "question": "does it have usb ports ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 88, 
+                                    "text": "DVD read/write"
+                                }
+                            ], 
+                            "id": "10337_2", 
+                            "question": "which kind of optical drive does it have ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 282, 
+                                    "text": "right"
+                                }
+                            ], 
+                            "id": "10337_3", 
+                            "question": "how is the price ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_8_A39B6W3B15HS0A"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Not bad . Nice and light , seems to help your work instead of becoming work itself . Perfect size for me . Probably not a gaming machine , which I have zero interest in .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 19, 
+                                    "text": "light"
+                                }
+                            ], 
+                            "id": "10320_0", 
+                            "question": "is it heavy ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 85, 
+                                    "text": "Perfect"
+                                }
+                            ], 
+                            "id": "10320_1", 
+                            "question": "how is the size ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00AH4A950_15_A7XMOAALJQNFP"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Count me as extremely satisfied , it 's a perfect computer .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 12, 
+                                    "text": "extremely satisfied"
+                                }
+                            ], 
+                            "id": "10278_0", 
+                            "question": "do you like your new computer ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B0096VDM8G_17_AO81S50LQB6N8"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Took the netbook on a vacation trip and I was able to do whatever I wanted to do without lugging a much heavier laptop . To my mind much more usable than the toy called an IPad .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 132, 
+                                    "text": "much more usable than the toy called an IPad"
+                                }
+                            ], 
+                            "id": "10033_0", 
+                            "question": "how is this netbook comparing to ipad ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "278"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Very good performer for the price . Not blazing fast , but quick enough . One really nice thing about Lenovo laptops is that they are not cluttered with a bunch or trial software . The desktop was clean once I got it up and running . Battery life is above average , and it charges quickly . Keyboard is sturdy . The touch pad takes a little getting used to as the \" click \" buttons are on top instead of the bottom . I will be considering Lenovo for all future laptop purchases .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Very good performer for the price"
+                                }
+                            ], 
+                            "id": "10391_0", 
+                            "question": "In general, how is the value ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 250, 
+                                    "text": "above average"
+                                }
+                            ], 
+                            "id": "10391_1", 
+                            "question": "how is the battery life?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 303, 
+                                    "text": "sturdy"
+                                }
+                            ], 
+                            "id": "10391_2", 
+                            "question": "how is the keyboard ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_36_A21F9QHZIQH13I"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I 've owned every \" Pro \" model Apple laptop for the last 8 years , this is BY FAR the WORST one I 've ever had . It crashes , and when it goes flat , it just DIES ( like a PC , maybe worse ) and I loose all my open documents ! I Hate it !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 230, 
+                                    "text": "Hate"
+                                }
+                            ], 
+                            "id": "10242_0", 
+                            "question": "do you like this product ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "7"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I bought a HP Pavilion DV4-1222nr laptop and have had so many problems with the computer . The computer is so slow , even after paying staples the extra money to speed it up . They said it was a computer error on this type of computer . Also , I have alot of trouble with it getting very hot , and not even sitting on anything to make it hot . When the computer has been on for several minutes , it will occasionaly just go off by itself . Also , the battery does not last very long at all . I would recommend not buying this product . I have had no luck with staples or HP to resolve this problem . I am stuck with a laptop that I can not do very much with . Also , I have had alot of trouble with the keys sticking and will not type correctly . Also , I have had alot of trouble with the shift key to go to other lines . It gets stuck all of the time you use it , and you have to keep tapping on it to get it to work . Sometimes the screen even goes black on this computer . Will probably never buy a HP again .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 107, 
+                                    "text": "so slow"
+                                }
+                            ], 
+                            "id": "10227_0", 
+                            "question": "what do you think about its speed ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 464, 
+                                    "text": "not last very long at all"
+                                }
+                            ], 
+                            "id": "10227_1", 
+                            "question": "is the battery life long ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 510, 
+                                    "text": "not buying"
+                                }
+                            ], 
+                            "id": "10227_2", 
+                            "question": "would you recommend this computer ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "97"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I like the laptop overall . The only thing i can say is that the touch pad doesnt work like it should all the time . Sometimes you really have to tap the pad to get it to work", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 2, 
+                                    "text": "like"
+                                }
+                            ], 
+                            "id": "10069_0", 
+                            "question": "do you like the laptop ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 75, 
+                                    "text": "doesnt work like it should"
+                                }
+                            ], 
+                            "id": "10069_1", 
+                            "question": "how is the touch pad ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "322"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This is a great little computer for the price . Simple to use , and great graphics . It has everything I would need for a home computer . I 'm very impressed .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 16, 
+                                    "text": "little"
+                                }
+                            ], 
+                            "id": "10070_0", 
+                            "question": "is this computer large ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 68, 
+                                    "text": "great graphics"
+                                }
+                            ], 
+                            "id": "10070_1", 
+                            "question": "do u like its screen ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "354"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I am first time Mac Buyer and am amazed at features and ease of use the Mac offers .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 5, 
+                                    "text": "first"
+                                }
+                            ], 
+                            "id": "10108_0", 
+                            "question": "is this your first mac ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 56, 
+                                    "text": "ease"
+                                }
+                            ], 
+                            "id": "10108_1", 
+                            "question": "is it easy to use ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "236"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I 've had my Macbook Pro since August 2009 . Prior to this computer , I owned a PowerBook G4 for 6 years ( quite a long time for a laptop ) . That was my first Apple product and since then I have been incredibly happy with every product of theirs I have bought . My MacBook Pro is no exception . On my PowerBook G4 I would never use the trackpad I would use an external mouse because I did n't like the trackpad . Since I 've had this computer I 've only used the trackpad because it is so nice and smooth . I also like that you can scroll down in a window using two fingers on the trackpad . The display is incredibly bright , much brighter than my PowerBook and very crisp . The computer runs very fast with no problems and the iLife software that comes with it ( iPhoto , iMovie , iWeb , iTunes , GarageBand ) is all very helpful as well . I also purchased iWork to go with it which has programs for word processing , spreadsheets , and presentations ( similar to Microsoft Office ) . I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well . I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 608, 
+                                    "text": "incredibly bright , much brighter than my PowerBook and very crisp"
+                                }
+                            ], 
+                            "id": "10215_0", 
+                            "question": "what do you think about its display ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 695, 
+                                    "text": "very fast"
+                                }
+                            ], 
+                            "id": "10215_1", 
+                            "question": "how is the running speed ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1063, 
+                                    "text": "completely compatible with"
+                                }
+                            ], 
+                            "id": "10215_2", 
+                            "question": "does it work with office ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1122, 
+                                    "text": "would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality"
+                                }
+                            ], 
+                            "id": "10215_3", 
+                            "question": "would you recommend this product ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "39"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I have used both PCs and Macs and I have to say that I really really love my Mac Book Pro . While most people say that PCs hold functionality and value and Macs are just pretty to look at , I think there 's something to be said about the simplicity of Macs . Everything from the design to the OS is simple and to the point . LOVE IT LOVE IT LOVE IT !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 69, 
+                                    "text": "love"
+                                }
+                            ], 
+                            "id": "10144_0", 
+                            "question": "do you like macbook pro ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 299, 
+                                    "text": "simple and to the point"
+                                }
+                            ], 
+                            "id": "10144_1", 
+                            "question": "how are the design and the os ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "3"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The PC is works well with a good battery and a power cable , and has a web cam . However , it does not have a DVD drive , neither does it afford one the opportunity to connect an external DVD drive as the manufacturer did not make any point ofconnection of an external drive .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 28, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "10395_0", 
+                            "question": "how is the battery life ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 65, 
+                                    "text": "has a web cam"
+                                }
+                            ], 
+                            "id": "10395_1", 
+                            "question": "does it have a camera ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 99, 
+                                    "text": "not"
+                                }
+                            ], 
+                            "id": "10395_2", 
+                            "question": "does it come with a dvd drive ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_79_A2BQP7V50CE1BM"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "From the second you open the box you will fall in love with this computer ! The OS is still as fast as the day that the laptop was purchased and continues to run flawlessly . The track pad to me is what really stands out though , you can do several different things with it just depending on how many fingers you use on the track pad , awesome thinking Apple ! Have not yet needed any customer support with this yet so to me that is a great thing , which is leaps and bounds ahead of PC in my opinion . The OS is also very user friendly , even for those that switch from a PC , with a little practice you can take full advantage of this OS ! Apple continues to shine and provide a much more enjoyable computer experience !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 203, 
+                                    "text": "really stands out"
+                                }
+                            ], 
+                            "id": "10168_0", 
+                            "question": "how is the track pad ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 518, 
+                                    "text": "very user friendly"
+                                }
+                            ], 
+                            "id": "10168_1", 
+                            "question": "is the os user-friendly ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "304"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I 'm new - just switched from years of PC frustration . what an elegant , wonderful machine . I 'm making the switch and finding that my biggest problem is trying to do things the 'old ' way - and Apple does , indeed , have the better idea . I really wish I had done this years ago . Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it 's a snap . Thank you Best Buy for putting my computer together and installing my first software - you guys were GREAT too ! I love it - never had a computer I was so impressed with - and I 've had a lot of laptops and desktops - this one is FAR AND ABOVE THE BEST ONE I EVER HAD BEFORE .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 156, 
+                                    "text": "trying to do things the 'old ' way"
+                                }
+                            ], 
+                            "id": "10222_0", 
+                            "question": "what is the problem of switching from PC to mac ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 531, 
+                                    "text": "never had a computer I was so impressed with - and I 've had a lot of laptops and desktops - this one is FAR AND ABOVE THE BEST ONE I EVER HAD BEFORE"
+                                }
+                            ], 
+                            "id": "10222_1", 
+                            "question": "do you like your new apple machine ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "256"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I hate it . I have had the luxury ( sarcasm ) of owning 2 of these laptops . The first fell apart right after the 1-year-warranty . During that time , I had to send it back 3 times . I paid about 18000 for this laptop because of all the bells and whistles and it kept crapping out on me . None of the techs at HP knew what they were doing . They would repair one thing , send it back and it would still have the same problem . The processor went on me , the fan went and the motherboard went . I wanted to purchase the extended warranty and they refused , because they knew it was trouble . I had something else go wrong and they said it had to be in good working order to be able to buy the warranty . I took it to friend who temporarily fixed it and I finally paid about 1500 for the extended warranty . I sent it back AND THEY LOST IT . I waited and waited and no laptop . Finally after months of research the discovered that they mailed it to a Walmart and there probably would be no way to find the box . I waited another month for approval and for them to \" BUILD \" me a new laptop . I was psyched . I thought all my problems would finally be solved being that my old computer would n't go onto our wireless network and I would n't have the same problems because it was updated . Here we are another year later and the computer is doing the same thing . HP did n't fix it . I swear they design these things to go to crap after a year so you are stuck and have to buy a new one . I use my friends and family 's $ 2000 laptops and they are fast and reliable and HP , well , I 'll never buy or recommend an HP to anyone !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 2, 
+                                    "text": "hate"
+                                }
+                            ], 
+                            "id": "10229_0", 
+                            "question": "do you like the product ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1580, 
+                                    "text": "'ll never"
+                                }
+                            ], 
+                            "id": "10229_1", 
+                            "question": "would you recommend hp ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "230"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Awesome laptop ! Standard issue for company road-warriors where I work . Bootup time is amazing , battery life is decent and it has a great slim form factor .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Awesome"
+                                }
+                            ], 
+                            "id": "10367_0", 
+                            "question": "how is the laptop ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 88, 
+                                    "text": "amazing"
+                                }
+                            ], 
+                            "id": "10367_1", 
+                            "question": "how is the booting up ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 114, 
+                                    "text": "decent"
+                                }
+                            ], 
+                            "id": "10367_2", 
+                            "question": "how is the battery ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00AH4A950_2_A2ST2XNUI1FB38"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "It allows me to do everything I need from a computer and more . With awesome graphics and assuring security , it 's perfect ! The difference in the Apple keyboard from a PC 's keyboard took a bit of tim to get used to , but overall it 's worth it ! I 'd recommend this laptop to anyone !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 69, 
+                                    "text": "awesome"
+                                }
+                            ], 
+                            "id": "10206_0", 
+                            "question": "do you like the graphics ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 251, 
+                                    "text": "'d"
+                                }
+                            ], 
+                            "id": "10206_1", 
+                            "question": "would you recommend this product ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "172"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Can not believe the price ! Amazing computer , perfect for school .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 28, 
+                                    "text": "Amazing"
+                                }
+                            ], 
+                            "id": "10311_0", 
+                            "question": "how is the computer ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 47, 
+                                    "text": "perfect"
+                                }
+                            ], 
+                            "id": "10311_1", 
+                            "question": "is it good for school ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_208_A2O3P3SPKVXD1W"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Great laptop for school , easy to use for beginners in the household . Keyboard is great but primary and secondary control buttons could be more durable . Battery life could be better but overall for the price and Toshiba 's reputation for laptops it 's great !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 26, 
+                                    "text": "easy"
+                                }
+                            ], 
+                            "id": "10210_0", 
+                            "question": "is it easy to use ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 83, 
+                                    "text": "great"
+                                }
+                            ], 
+                            "id": "10210_1", 
+                            "question": "how is the keyboard ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "56"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Dell Latitude d620 is not a reliable machine . The battery never held a charge longer than one hour and within two months , stopped holding a charge for more than ten minutes . Later it held zero charge and its replacement worked for less than three months . The machine is slow to boot up and occasionally crashes completely .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 22, 
+                                    "text": "not a reliable machine"
+                                }
+                            ], 
+                            "id": "10272_0", 
+                            "question": "how is the product ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 59, 
+                                    "text": "never held a charge longer than one hour and within two months , stopped holding a charge for more than ten minutes . Later it held zero charge and its replacement worked for less than three months"
+                                }
+                            ], 
+                            "id": "10272_1", 
+                            "question": "how is the battery life ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 274, 
+                                    "text": "slow"
+                                }
+                            ], 
+                            "id": "10272_2", 
+                            "question": "how is the speed of booting up ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "228"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Screen is awesome , battery life is good . Really like the textured surface which shows no fingerprints . Good laptop for the money . Speakers do n't get that loud , but good enough .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 10, 
+                                    "text": "awesome"
+                                }
+                            ], 
+                            "id": "10212_0", 
+                            "question": "how is the display ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 36, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "10212_1", 
+                            "question": "how is the battery life ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 50, 
+                                    "text": "like"
+                                }
+                            ], 
+                            "id": "10212_2", 
+                            "question": "do you like the surface ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 106, 
+                                    "text": "Good"
+                                }
+                            ], 
+                            "id": "10212_3", 
+                            "question": "what do you think about its value ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "283"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This laptop is nice . It has a decent feel to it , sharp display and is fast enough . The biggest problem I have is the right side and top of the touchpad is unresponsive . So frustrating ! ! I have updated the drivers and tweeked every feature available , but nothing has helped . Also , the touchpad is almost 'sticky ' , which kind of defeats the purpose of a touchpad . I would love to keep this laptop , but will be sending it back and looking for a different brand . No Lenovo for me .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 51, 
+                                    "text": "sharp"
+                                }
+                            ], 
+                            "id": "10417_0", 
+                            "question": "how is the screen ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 72, 
+                                    "text": "fast"
+                                }
+                            ], 
+                            "id": "10417_1", 
+                            "question": "how is the performance of speed ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 120, 
+                                    "text": "right side and top of the touchpad is unresponsive"
+                                }
+                            ], 
+                            "id": "10417_2", 
+                            "question": "what is the problem with the touch pad ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_216_A1GXCL1890WK2K"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Look and feel is good . I am experiencing the system little slower than what I have expected . And processor feels pressured even though I run medium scale programs , watching the way exhaust speed increases .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 17, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "10361_0", 
+                            "question": "how is the appearance ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00D7Z84OY_19_A2KZTN24NDPI8P"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Very good price . Very nice computer", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Very good"
+                                }
+                            ], 
+                            "id": "10412_0", 
+                            "question": "how is the price ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 18, 
+                                    "text": "Very nice"
+                                }
+                            ], 
+                            "id": "10412_1", 
+                            "question": "how is the computer, in general ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_136_AU1XUW0ZLDFRS"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I am overall very zpleased with my toshiba satellite , I like the extra features , I love the windows 7 home premium . The battery life has not decreased since I bought it , so i 'm thrilled with that . I also love the design , the looks , the feel , and the my toshiba feature is wonderfull . I would easly reccomend this laptop to a friend .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 5, 
+                                    "text": "overall very zpleased"
+                                }
+                            ], 
+                            "id": "10124_0", 
+                            "question": "do you like this product ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 85, 
+                                    "text": "love"
+                                }
+                            ], 
+                            "id": "10124_1", 
+                            "question": "do you like the operating system ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 102, 
+                                    "text": "7 home premium"
+                                }
+                            ], 
+                            "id": "10124_2", 
+                            "question": "which version of windows does it come with ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "341"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This netbook went bad on me after 3 days . There is a blank lighted screen when I start and that is all . I am also upset with CR for giving a good rating .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 13, 
+                                    "text": "went bad on me after 3 days"
+                                }
+                            ], 
+                            "id": "10031_0", 
+                            "question": "does this network work well ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "90"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "First things first , Macbook pro has many applications to make life easier , unlike the windows computers . Amazing Quality ! Plus stylish . The big screen allows you to enjoy watching movies , pictures and etc ! The flaws are , this computer is not for computer gamers because of the OS X . Mac is not made for gaming . BUT there 's this application called Boot Camp which allows you to add another OS X like Windows . Second , it gets scratches easily and when it gets old some thing may operated", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 108, 
+                                    "text": "Amazing"
+                                }
+                            ], 
+                            "id": "10175_0", 
+                            "question": "how is the quality ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 131, 
+                                    "text": "stylish"
+                                }
+                            ], 
+                            "id": "10175_1", 
+                            "question": "how is the look ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 145, 
+                                    "text": "big"
+                                }
+                            ], 
+                            "id": "10175_2", 
+                            "question": "how is the size of the screen ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 285, 
+                                    "text": "OS X"
+                                }
+                            ], 
+                            "id": "10175_3", 
+                            "question": "why this computer is not good for gamers ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "296"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "excellent item , shipped on time , met my expectations , it doesnt heat at all , dont use it for gaming", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "excellent"
+                                }
+                            ], 
+                            "id": "10315_0", 
+                            "question": "is this product good ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 25, 
+                                    "text": "on time"
+                                }
+                            ], 
+                            "id": "10315_1", 
+                            "question": "how is the delivery ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 60, 
+                                    "text": "doesnt heat"
+                                }
+                            ], 
+                            "id": "10315_2", 
+                            "question": "how about the running temperature ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_380_A3NKFNBLS4N4RJ"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The machine is easy to use , has the power it needs for personal use and some light professional work . It could be lighter , but could n't everything . The battery seems adequate for most uses ~ 4.5 hour use/charge . Screen is clear and bright . Glad it has the DVD drive . Perfectly adequate .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 15, 
+                                    "text": "easy"
+                                }
+                            ], 
+                            "id": "10381_0", 
+                            "question": "is it easy to use ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 196, 
+                                    "text": "4.5 hour use/charge"
+                                }
+                            ], 
+                            "id": "10381_1", 
+                            "question": "how long is the battery life per charge ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 228, 
+                                    "text": "clear and bright"
+                                }
+                            ], 
+                            "id": "10381_2", 
+                            "question": "how is the display ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 255, 
+                                    "text": "has"
+                                }
+                            ], 
+                            "id": "10381_3", 
+                            "question": "does it come with dvd driver ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_19_A1MBI7JFXKWNWS"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "All I can say is W-O-W . This laptop is insane ! ! ! It 's so nice to look at and the keys are easy to type with . I bought a protector for my key pad and it works great : ) This is definitely a computer worth the money ; The mouse is a little bit different than what you 're used to though- it has one big flat panel and one full bar ( instead of two separate ones ) to click with- but you get used to it quite quickly . AND the best part is that it even comes with a free printer ( when they have a certain promotion/offer going , of course ) ! Overall , this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from . The Apple team also assists you very nicely when choosing which computer is right for you : ) Obviously , this Macbook is P-E-R-F-E-C-T for me because it does exactly what I need in an easy-to-function way . DEFINITELY recommended ! ! !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 62, 
+                                    "text": "nice"
+                                }
+                            ], 
+                            "id": "10094_0", 
+                            "question": "how is the look ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 204, 
+                                    "text": "worth the money"
+                                }
+                            ], 
+                            "id": "10094_1", 
+                            "question": "how is the value ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 886, 
+                                    "text": "DEFINITELY"
+                                }
+                            ], 
+                            "id": "10094_2", 
+                            "question": "would you recommend it ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Great for games", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Great"
+                                }
+                            ], 
+                            "id": "10408_0", 
+                            "question": "is it good for gaming ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00D7Z84OY_17_A3MAL5JLTCZKLO"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The laptop was very easy to set up . I did not have to call the support line at all . Everything was so easy .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 15, 
+                                    "text": "very easy"
+                                }
+                            ], 
+                            "id": "10075_0", 
+                            "question": "is this laptop easy to set up ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "382"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I 've only had this computer for a few days an I already do n't like it . The battery life is a joke and it 's causing other problems . I will be returning it . If people are writing bad reviews about this laptop then believe what they say .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 60, 
+                                    "text": "n't like"
+                                }
+                            ], 
+                            "id": "10346_0", 
+                            "question": "do you like this pc ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 96, 
+                                    "text": "joke"
+                                }
+                            ], 
+                            "id": "10346_1", 
+                            "question": "what do you think about its battery life per charge ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KB3MXH4_15_A1HHHK2JW28E4Z"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The laptop is very lightweight , can easily carry around in a knapsack full of text books and it barely adds any weight . It is small enough to fit in one of my purses ! Windows 7 Starter is terrific ( no you ca n't change the background ) but I do n't need to , I use it just for school work . The battery life is amazing , the versitility is outstanding . The ease of set up was terrific . I was even able to uninstall McAffe and install one of my Symantec licenses with a no issues whatsoever . I had to adjust my mousepad sensitivity , because it is very sensitive . Keyboard is great , very quiet for all the typing that I do . Screen is crystal clear , yes it 's small - but it 's a netbook !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 14, 
+                                    "text": "very lightweight"
+                                }
+                            ], 
+                            "id": "10129_0", 
+                            "question": "is this laptop heavy ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 37, 
+                                    "text": "easily carry"
+                                }
+                            ], 
+                            "id": "10129_1", 
+                            "question": "what do you think about its portability ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 191, 
+                                    "text": "terrific"
+                                }
+                            ], 
+                            "id": "10129_2", 
+                            "question": "what do you think about windows 7 starter ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 315, 
+                                    "text": "amazing"
+                                }
+                            ], 
+                            "id": "10129_3", 
+                            "question": "how is the battery life per charge ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 554, 
+                                    "text": "very sensitive"
+                                }
+                            ], 
+                            "id": "10129_4", 
+                            "question": "how is the mousepad ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 583, 
+                                    "text": "great , very quiet"
+                                }
+                            ], 
+                            "id": "10129_5", 
+                            "question": "do you like its keyboard ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 643, 
+                                    "text": "crystal clear"
+                                }
+                            ], 
+                            "id": "10129_6", 
+                            "question": "is the screen clear ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 669, 
+                                    "text": "small"
+                                }
+                            ], 
+                            "id": "10129_7", 
+                            "question": "how is the size of the screen ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "5"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Let 's just get this out of the way , I love Apple ! So this review might be a tad bit bias . But the Macbook is the best ! It is super easy to use . All you have to do is turn it on and it works . It is very durable , I am pretty rough when it comes to electronics and it has taken it all with no reprecutions yet . I do n't do any high tech stuff on it , just write papers , check mail , and sometimes play games , so I ca n't reccomend it if you are in the computer field . But if you are in the computer field you probably would n't be here . : ) In the past four years I 've had it I have never once gotten a virus . I did have to replace the battery once , but that was only a couple months ago and it 's been working perfect ever since . I would definitely reccomend this if you are in the market for an easy to use , stylish , fun , awesome computer . Also it is very good for college students who just need a reliable , easy to use computer . Hope this helped !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 117, 
+                                    "text": "best"
+                                }
+                            ], 
+                            "id": "10097_0", 
+                            "question": "do you love macbook ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "40"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This is an ok computer . The processor shows a speed of 1.7gz . The sound is disappointing . No bass sound at all . Maybe this one is just a dud .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 11, 
+                                    "text": "ok"
+                                }
+                            ], 
+                            "id": "10347_0", 
+                            "question": "how is the computer in general ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 56, 
+                                    "text": "1.7gz"
+                                }
+                            ], 
+                            "id": "10347_1", 
+                            "question": "what is the speed of the processor ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77, 
+                                    "text": "disappointing"
+                                }
+                            ], 
+                            "id": "10347_2", 
+                            "question": "how is the sound ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 93, 
+                                    "text": "No bass sound"
+                                }
+                            ], 
+                            "id": "10347_3", 
+                            "question": "does it have bass ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KB3MXH4_6_A1OJE3DZ64LB6H"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The Macbook is a fantastic laptop . This is the first macbook I have ever had . I came from the Dell Laptops and now I am so glad I switched when I needed a new laptop . The macbooks are small enough to be very portable yet hold tons of information and performance . Although the price is higher then Dell laptops , the Macbooks are worth the dough . You will love this macbook if you choose to buy it . The macbook rarely requires a hard reboot . It just works flawlessly ! Its hard to encounter a problem on a mac that would require such abrupt action . Dells are ok , HPs are n't that good , but Macs or Fantastic . I honestly love my mac , thats why I am a self proclaimed mac addict . If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 17, 
+                                    "text": "fantastic"
+                                }
+                            ], 
+                            "id": "10198_0", 
+                            "question": "do you like macbook ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 206, 
+                                    "text": "very portable"
+                                }
+                            ], 
+                            "id": "10198_1", 
+                            "question": "how about its portability ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 462, 
+                                    "text": "flawlessly"
+                                }
+                            ], 
+                            "id": "10198_2", 
+                            "question": "does it run well ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "29"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Being a PC user my whole life ... . This computer is absolutely AMAZING ! ! ! 10 plus hours of battery ... super fast processor and really nice graphics card.. and plenty of storage with 250 gb ( though I will upgrade this and the ram.. ) This computer is really fast and I 'm shocked as to how easy it is to get used to ... I 've only had mine a day but I 'm already used to it ... MACS ARE AMAZING ! ! ! GET THIS COMPUTER FOR PORTABILITY AND FAST PROCESSING ! ! !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 53, 
+                                    "text": "absolutely AMAZING"
+                                }
+                            ], 
+                            "id": "10000_0", 
+                            "question": "do you like this pc ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 132, 
+                                    "text": "really nice"
+                                }
+                            ], 
+                            "id": "10000_1", 
+                            "question": "how is the graphics card ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 256, 
+                                    "text": "really fast"
+                                }
+                            ], 
+                            "id": "10000_2", 
+                            "question": "how is the speed ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 392, 
+                                    "text": "AMAZING"
+                                }
+                            ], 
+                            "id": "10000_3", 
+                            "question": "how is the mac ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "79"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I initially purchased my Macbook Pro 13 \" in April , and I loved it . I had never owned a Mac before ; I had always used PCs and been constantly frustrated by the crashing and the poorly designed operating systems that were never very intuitive . I was so happy with my new Mac . for 2 months . Then the hard drive failed ; my information was all lost ( my fault , I know , but I never thought I would need to back up my information on a brand new Mac , the paragon of all computers ! So , after Apple replaced the hard drive I enjoyed another 4 months of my new computer , until it froze this morning -- completely . I ca n't even turn it off . It 's catatonic . Even if Apple replaces whatever needs replacing I wonder if , since I seem to be doubling the amount of time I get out of it each time it 's \" like new , \" I might have 8 months next time . Oh , boy ! I would rate this computer at 5 stars , but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine . I 'm going back to PC . At least those computers did n't just die on me like this one .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 180, 
+                                    "text": "poorly designed"
+                                }
+                            ], 
+                            "id": "10269_0", 
+                            "question": "what do u think of windows ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "128"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Windows 7 rocks .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 10, 
+                                    "text": "rocks"
+                                }
+                            ], 
+                            "id": "10334_0", 
+                            "question": "how is windows 7 ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_143_ABR1CV3CY7TFN"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "My husband got me this for Chrismas after getting me a very expensve laptop that did not work after 2 days . So we exchanged it for the same on and after 2 hours it did n't work . I went with him and we picked this one . It is made better , thicker , and all out tough ! I droped this once from thetable when my baby girl grabed me one day and IT is still working with NO issues ! I love the easy to see screen , and It works well for work , persoal or just play . I tell everyone I see out looking to get this or another Toshiba . My dad has one of the very first Toshibas ever made , yes its abit slow now but still works well and i hooked to my ethernet ! My friends or children use that when they need to borrow the Net = ) When I out grow this Meaning when its old and my oldest child is ready for one she will get this one ANd I will be buying only TOSHIBA ! I just love this lap top , I just wish it were all silver or they had all black . That is my only complaint ! LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET ! WOULD PAY MORE FOR IT IF I HAD TOO !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 992, 
+                                    "text": "WONDERFUL"
+                                }
+                            ], 
+                            "id": "10161_0", 
+                            "question": "how is the price ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "366"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Fantastic for the price - just wish it the keys were illuminated .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Fantastic for the price"
+                                }
+                            ], 
+                            "id": "10292_0", 
+                            "question": "what do you think about its value ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_381_AH6TXTDWVUNLS"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The Notebook PC , Toshiba Qosmio is the best gift my father could have ever gotten me . He gave me this PC about 3 years ago and up to this point im still sitting here using it . Its still going . It is in the best condition and has a really high quality . This is something i would deffinately reccomend to someone . You will not regret buying such a great thing like this ! It ca n't get any better .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 183, 
+                                    "text": "still going"
+                                }
+                            ], 
+                            "id": "10005_0", 
+                            "question": "does this pc work after 3 years ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "178"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This laptop is amazing ! Windows 8.1 has its pros and cons . The keyboard is backlit but you have to press the F5 key to turn it on . I was nervous at first that I purchased a lemon but the user manual explains how to turn on the keyboard backlight . Of course this will decrease your battery life . The sound is very nice and crisp . Also , I have no regrets about going with the 8GB RAM because its super fast . I 'm still exploring the various features but overall I am satisfied with my purchase .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 15, 
+                                    "text": "amazing"
+                                }
+                            ], 
+                            "id": "10438_0", 
+                            "question": "overall, how is the laptop ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 37, 
+                                    "text": "has its pros and cons"
+                                }
+                            ], 
+                            "id": "10438_1", 
+                            "question": "what do you think about windows 8.1 ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77, 
+                                    "text": "backlit but you have to press the F5 key to turn it on"
+                                }
+                            ], 
+                            "id": "10438_2", 
+                            "question": "is the keyboard backlit ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 313, 
+                                    "text": "very nice and crisp"
+                                }
+                            ], 
+                            "id": "10438_3", 
+                            "question": "how is the speaker ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 381, 
+                                    "text": "8GB"
+                                }
+                            ], 
+                            "id": "10438_4", 
+                            "question": "how large is the ram space ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 401, 
+                                    "text": "super fast"
+                                }
+                            ], 
+                            "id": "10438_5", 
+                            "question": "how is the speed with 8gb ram ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 473, 
+                                    "text": "satisfied"
+                                }
+                            ], 
+                            "id": "10438_6", 
+                            "question": "are you satisfied with your purchase ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KB3MXH4_22_A106YGESUYA4BP"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Extremely slow . A masterpiece of crap .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Extremely slow"
+                                }
+                            ], 
+                            "id": "10330_0", 
+                            "question": "does it run fast ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_216_A2VZ7R8QTA0QXE"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "So far I am very happy with this computer . It has everything I wanted -- built in Wi-Fi connectibility , a slot for my SD camera memory card , a DVD burner , big beautiful screen , plenty of USB ports ( three 3.0 and one 2.0 ) , and a keyboard with a nice touch . I liked the fact that it came with Windows 7 , but also included Windows 8 to install later if I need it . The price was good . I use a wireless mouse , but the touch pad and the \" red button \" in the middle that works like a little \" joystick \" also work fine . I wish I had bought this sooner !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 106, 
+                                    "text": "a slot for my SD camera memory card"
+                                }
+                            ], 
+                            "id": "10427_0", 
+                            "question": "does it come with a SD card slot ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 146, 
+                                    "text": "DVD burner"
+                                }
+                            ], 
+                            "id": "10427_1", 
+                            "question": "does it come with a dvd burner ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 159, 
+                                    "text": "big beautiful"
+                                }
+                            ], 
+                            "id": "10427_2", 
+                            "question": "how is the screen ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 204, 
+                                    "text": "three"
+                                }
+                            ], 
+                            "id": "10427_3", 
+                            "question": "how many usb 3.0 does it have ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 218, 
+                                    "text": "one"
+                                }
+                            ], 
+                            "id": "10427_4", 
+                            "question": "how many usb 2.0 port does it have ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 252, 
+                                    "text": "nice touch"
+                                }
+                            ], 
+                            "id": "10427_5", 
+                            "question": "do you like its keyboard ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 300, 
+                                    "text": "Windows 7"
+                                }
+                            ], 
+                            "id": "10427_6", 
+                            "question": "which os does it come with ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 343, 
+                                    "text": "install later if I need it"
+                                }
+                            ], 
+                            "id": "10427_7", 
+                            "question": "can I install windows 8 on this machine ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 386, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "10427_8", 
+                            "question": "how about its price ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_262_APGJ4QQPM9QIX"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Overall good but processing power is n't very good . W7 Pro with W8 pro upgrade is nice , but it frequently freezes for a few seconds here and there . I replaced stock drive with WD Black 7K drive and is still quite slow . Battery does n't last long web browsing ( 2.5 hours maybe ) .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 37, 
+                                    "text": "n't very good"
+                                }
+                            ], 
+                            "id": "10356_0", 
+                            "question": "how is the performance ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 53, 
+                                    "text": "W7 Pro with W8 pro upgrade"
+                                }
+                            ], 
+                            "id": "10356_1", 
+                            "question": "which version of windows does it have ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 83, 
+                                    "text": "nice , but it frequently freezes for a few seconds here and there"
+                                }
+                            ], 
+                            "id": "10356_2", 
+                            "question": "how is its OS ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 236, 
+                                    "text": "n't last long"
+                                }
+                            ], 
+                            "id": "10356_3", 
+                            "question": "how is the battery life ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 265, 
+                                    "text": "2.5 hours maybe"
+                                }
+                            ], 
+                            "id": "10356_4", 
+                            "question": "how long can the laptop last per charge ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_61_A1TAIZR02ODKET"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Computer was DOA . Turned it on and it was beeping . Looked up the manual on another computer . The manual said that particular series of beeps indicated a video problem . Have the unit serviced . Lenovo sent me a box to return it to them . They claim they will have it back in six working days . We 'll see . Once I get a working computer , I think I will like it . I 've had Lenovo computers before .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 43, 
+                                    "text": "beeping"
+                                }
+                            ], 
+                            "id": "10425_0", 
+                            "question": "anything wrong with this computer ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_17_A222CVY87OUZ2U"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I love this laptop . Even my extremely tech savvy boyfriend was impressed with the features and sleek design . Although I 've had it for less than a week , I am very satisfied .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 2, 
+                                    "text": "love"
+                                }
+                            ], 
+                            "id": "10400_0", 
+                            "question": "do you like this laptop ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00D7Z84OY_48_A2XVST4DRWHUO2"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Uhhhhhh , the computer looks good . But , it works really slowwwwww ! ! ! It has got me feel like to take years to successfully open a web page .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 29, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "10420_0", 
+                            "question": "how is the appearance ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 51, 
+                                    "text": "really slowwwwww"
+                                }
+                            ], 
+                            "id": "10420_1", 
+                            "question": "is it slow ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_181_A3EWXJNJTBYTQM"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Strengths : Well-shaped Weaknesses : A bad videocard ! Posted Nov 8 , 2010 - Two weeks ago I bought this notebook . What can I say . The first programm I switched on was a game for my children . After 20-30 min the screen of the notebook switched off . It was still working , but there was nothing on the screen . I was said it 's videocard . Very disappointed ! Did n't expect to repair it at once ! Going to bring it to service today . Do n't buy this model .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 39, 
+                                    "text": "bad"
+                                }
+                            ], 
+                            "id": "10254_0", 
+                            "question": "how is the video card ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 438, 
+                                    "text": "Do n't buy"
+                                }
+                            ], 
+                            "id": "10254_1", 
+                            "question": "would you recommend this product ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "122"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This a starter notebook . The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing . The notebook is lacking a HDMI port and a S-video port that would enable one to hook it to a TV . If you check you will find the same notebook with the above missing ports and a dual core AMD or Intel processor . I would not recommend this to anyone wanting a notebook expecting the performance of a Desktop it does not meet the expectations . It is a cheap throw together . Save your money and go for a better device .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 148, 
+                                    "text": "lacking"
+                                }
+                            ], 
+                            "id": "10181_0", 
+                            "question": "does it have hdmi ports ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 347, 
+                                    "text": "would not recommend this to anyone wanting a notebook expecting the performance of a Desktop it does not meet the expectations"
+                                }
+                            ], 
+                            "id": "10181_1", 
+                            "question": "will you recommend this product ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "372"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Apparently well-built and gorgeous to look at , the i5 MacBook Pro is a winning combination of price and performance .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 11, 
+                                    "text": "well-built and gorgeous"
+                                }
+                            ], 
+                            "id": "10042_0", 
+                            "question": "how is the appearance of this computer ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 52, 
+                                    "text": "i5"
+                                }
+                            ], 
+                            "id": "10042_1", 
+                            "question": "which cpu does it use ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 72, 
+                                    "text": "winning combination of price and performance"
+                                }
+                            ], 
+                            "id": "10042_2", 
+                            "question": "how is the value of this macbook pro ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "169"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I have owned many computers and laptops . I HATE this one . Vista is a nightmare . No tutorials on the display . The book is useless . The machine has a bluray player the book has no mention of it or how to connect it to your HDTV . this is one of the reasons I purchased it . Thinking about returning it", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 44, 
+                                    "text": "HATE"
+                                }
+                            ], 
+                            "id": "10197_0", 
+                            "question": "do you like this laptop ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 71, 
+                                    "text": "nightmare"
+                                }
+                            ], 
+                            "id": "10197_1", 
+                            "question": "how is windows vista ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "34"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Outstanding laptop and very well built . This unit will replace my old desktop . The retina display is fantastic .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 23, 
+                                    "text": "very well built"
+                                }
+                            ], 
+                            "id": "10287_0", 
+                            "question": "how is the build quality ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 103, 
+                                    "text": "fantastic"
+                                }
+                            ], 
+                            "id": "10287_1", 
+                            "question": "do you like its retina display ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B0096VDM8G_47_ADVH60401PIPV"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I am very happy with this computer . It is exactly what I expected , and the price is excellent ! You are getting what you pay for and in my opinion , it is worth more . Been using it for about 4 hours now and it seems plenty fast and does everything I need it to do .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 86, 
+                                    "text": "excellent"
+                                }
+                            ], 
+                            "id": "10378_0", 
+                            "question": "how is the price ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 219, 
+                                    "text": "plenty fast"
+                                }
+                            ], 
+                            "id": "10378_1", 
+                            "question": "is it fast enough ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_97_A2F819YX0XJ5Y1"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Pretty good laptop . Good for basic stuff . Do n't try to use to play any pc games or anything . Just for simple web browsing and media streaming . Pretty premium feel for the low price .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Pretty good"
+                                }
+                            ], 
+                            "id": "10307_0", 
+                            "question": "is the laptop good ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 176, 
+                                    "text": "low"
+                                }
+                            ], 
+                            "id": "10307_1", 
+                            "question": "is it cheap ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_278_ARETX4KDPRVUN"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I really like the Mac 15.4in . Notebook , but its very pricey . Heck , I like all Mac computers , but they 're all WAY too pricey for the kind of economy the U.S. is going through . Love the graphics , awesome programs ( including Garageband ) , and really cool default background . But , like I said before , the only reason I do n't currently have a Mac laptop is because all of their laptops are too pricey .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 182, 
+                                    "text": "Love"
+                                }
+                            ], 
+                            "id": "10131_0", 
+                            "question": "do you like the graphics of the laptop ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 202, 
+                                    "text": "awesome"
+                                }
+                            ], 
+                            "id": "10131_1", 
+                            "question": "how is the pre-installed software ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 250, 
+                                    "text": "really cool"
+                                }
+                            ], 
+                            "id": "10131_2", 
+                            "question": "do you like the default background ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "46"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Great PC . The i7 is incredibly fast , the RAM makes it proper for several games ( not on maximum quality ) . Great sound quality too .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Great"
+                                }
+                            ], 
+                            "id": "10382_0", 
+                            "question": "how is the pc ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 15, 
+                                    "text": "i7"
+                                }
+                            ], 
+                            "id": "10382_1", 
+                            "question": "which cpu does it use ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 21, 
+                                    "text": "incredibly fast"
+                                }
+                            ], 
+                            "id": "10382_2", 
+                            "question": "how is the processor ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 110, 
+                                    "text": "Great"
+                                }
+                            ], 
+                            "id": "10382_3", 
+                            "question": "how is the sound ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00D7Z84OY_18_A293J8GU1DRRJ5"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "It is slow and complicated and very disappointing", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 6, 
+                                    "text": "slow"
+                                }
+                            ], 
+                            "id": "10344_0", 
+                            "question": "does it run fast ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_277_AZH4JFP4U8IVR"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Initially I liked the product so much . Although it was slow but I felt it was ok for the price you have bought it . But now I am having battery problems . Laptop automatically shuts down when battery life reaches 30 % . I bought this laptop in November 2013 . I am not satisfied with the product .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 56, 
+                                    "text": "slow"
+                                }
+                            ], 
+                            "id": "10418_0", 
+                            "question": "is it fast ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 163, 
+                                    "text": "automatically shuts down when battery life reaches 30 %"
+                                }
+                            ], 
+                            "id": "10418_1", 
+                            "question": "what 's the problem with the battery ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00AH4A950_4_A37JIQH129VLKR"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Did not disappoint me at all . Lenovo is the best laptop .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 45, 
+                                    "text": "best"
+                                }
+                            ], 
+                            "id": "10388_0", 
+                            "question": "is it a good laptop ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_25_A3504VWFA6UMTO"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This little netboook is helping me get work done ! I can do pretty much 75 % of what I do on my desktop on my kitchen table . I homeschool my kids and with this netbook next to my desk we get to teaching and illustrating without skipping a beat .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 24, 
+                                    "text": "helping me get work done"
+                                }
+                            ], 
+                            "id": "10107_0", 
+                            "question": "does this computer meet your needs ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "207"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "With all the goodies inside this machine , it is a value . It is very well built . The keyboard is top notch . The touch pad is among the best . The screen is huge and coloful , but no LED backlighting . The video card is great for media , and above average for gaming , but not a gamers first choice . The problem I had with this unit was unresolvable . It had a cooling system malfunction after 10 minutes of general use , and would not move past this error . I realize that not every unit has this issue , but the ones that do can not be repaired . I acually believe the issue is with the Nvidia grafics card , but still requires a return . Instead of taking another chance on Toshiba , I went with an Asus G73JH-x3 . They offer the best warranty in the business , and do n't 3rd party it out like Toshiba . For the same price , you get a lot more in the Asus ... .1920x1080 res./ awesome cooling system/ much better grafics card ( ATI 5870 ) / 8GB RAM/ LED backlit screen ... Sorry Toshiba , but 1st impressions do count for something .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 65, 
+                                    "text": "very well"
+                                }
+                            ], 
+                            "id": "10265_0", 
+                            "question": "how is the build quality ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 99, 
+                                    "text": "top notch"
+                                }
+                            ], 
+                            "id": "10265_1", 
+                            "question": "is the keyboard great ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 128, 
+                                    "text": "among the best"
+                                }
+                            ], 
+                            "id": "10265_2", 
+                            "question": "is the touchpad good ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 159, 
+                                    "text": "huge"
+                                }
+                            ], 
+                            "id": "10265_3", 
+                            "question": "how is the size of the screen ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 379, 
+                                    "text": "malfunction"
+                                }
+                            ], 
+                            "id": "10265_4", 
+                            "question": "how is the cooling system ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "22"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I love this computer ! However I am very upset that it does n't have the superdrive built in !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 2, 
+                                    "text": "love"
+                                }
+                            ], 
+                            "id": "10324_0", 
+                            "question": "do you like this product ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B0096VDM8G_74_A3JYJCVU8D2L54"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "2nd Best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "2nd Best computer in the world"
+                                }
+                            ], 
+                            "id": "10121_0", 
+                            "question": "how do you rate this computer ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "295"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "One of the smartest thing I did was take my time to compare laptops before making my purchase . The Toshiba Satellite has been more than I expected for the price . I will stack it up against laptops that cost twice as much any day .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 127, 
+                                    "text": "more than I expected for the price . I will stack it up against laptops that cost twice as much any day"
+                                }
+                            ], 
+                            "id": "10218_0", 
+                            "question": "how is your toshiba satellite ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "368"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "ouch . it stopped working 31 days after purchase . i just tried to restart it . i hope they can fix it somehow . it was slow and might be problematic . i would shop around for a better one .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 7, 
+                                    "text": "it stopped working 31 days after purchase"
+                                }
+                            ], 
+                            "id": "10393_0", 
+                            "question": "does it work well ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 120, 
+                                    "text": "slow"
+                                }
+                            ], 
+                            "id": "10393_1", 
+                            "question": "how is the running speed ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_5_A32LJA5R33Y631"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "At first when I got this product , I loved it . The computer itself was fast , ran smoothly , and had no problems . Then , within 5 months , the charger crapped out on me . So I called Compaq , and after being on the phone for 3 hours , i finally got a replacement which I should n't have had a problem getting since it was under warranty . 2 months later , the battery went . They gave me a hard time yet again , but their was a malfunction in the battery itself , it did n't die . THEN , one month after the warranty expired , the replacement charger went . I had to pay $ 100 for a universal charger for this cheap $ 300 laptop . Not worth it one bit . The people are frustrating to work with , the product itself is very cheaply made , and the accessories are less than satisfactory . Also , my sister got the exact same laptop ( since they were so cheap ) and after 8 months , the screen split in half just from everyday use . Apparently under the screen there are 2 little screws and when the screen gets moved back and forth , they come loose . And it is impossible to get them back in .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 72, 
+                                    "text": "fast"
+                                }
+                            ], 
+                            "id": "10253_0", 
+                            "question": "what do you think about its speed ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 720, 
+                                    "text": "very cheaply made"
+                                }
+                            ], 
+                            "id": "10253_1", 
+                            "question": "how is the build quality ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "104"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The Toshiba Satellite laptop is DESIGNED to fail ! The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues . Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it . I actually contact Toshiba before I started having problem and was given run around after I supplied serial number in order to delay me sending in laptop until after warrenty expired . Then after paying for it to be examined I was told it was same problem cited on website but I 'd have to pay anyways since it was past warrenty .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 12, 
+                                    "text": "Satellite"
+                                }
+                            ], 
+                            "id": "10207_0", 
+                            "question": "which series of toshiba ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "152"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Waiting for the i7 was well worth it , great value for the price . Bigger HD , better graphics card , and a bid HD . There is nothing to complain about the system . I have used PC 's and converting to this MacBook Pro was easy . If you have the money I suggest going for the i7 .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 39, 
+                                    "text": "great"
+                                }
+                            ], 
+                            "id": "10132_0", 
+                            "question": "how is the value ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 67, 
+                                    "text": "Bigger"
+                                }
+                            ], 
+                            "id": "10132_1", 
+                            "question": "what do you think about the space of the hard drive ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 79, 
+                                    "text": "better"
+                                }
+                            ], 
+                            "id": "10132_2", 
+                            "question": "do you like its graphics card ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "298"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I live in Jamaica and bought this online and my husband took it down for me . So far I do not have any trouble with it other than the picture quality is a bit poor . My son saw this laptop online and told be about it and i thought it was a good deal and bought it . I have had it over a month now and it works just fine . This laptop suits my needs : as i am currently studying online and just need a computer for that purpose . My daughter uses it for college too and it works great for both of us . So i gave this 4 stars but only because of the poor picture quality , other than that it is a great buy !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 548, 
+                                    "text": "poor"
+                                }
+                            ], 
+                            "id": "10342_0", 
+                            "question": "how is the picture quality ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_259_A22ELO0I334LNR"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I took 3-4 years researching brands and prices of laptops . I finally decided on this laptop because it was the right price for what I need it . I did think it had a camera because that was one of my requirements , but forgot to check in the specifications on this one before I purchased . So I 'm disappointed in that because communicating with my relatives out of the area is a priority . The only thing I did n't learn in my research was the software I would need like privacy protection and warranty protection , in case it gets broken , or crashes etc . I do n't have that additional money right now , and therefore would n't have purchased it at this time . Those things are very important - vital even ! So think about factoring those things in when you purchase . I just hope the reputation that Toshiba has is true and I wo n't have to worry about a crash . I will have to purchase Spy ware or Nortell for privacy protection . Thank you .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 112, 
+                                    "text": "right price for what I need it"
+                                }
+                            ], 
+                            "id": "10177_0", 
+                            "question": "how is the value ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "343"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I had this computer for one month and had to send it in for repair . Got the computer back a month later and it was still broken sent it out again and they repaired it . 3 weeks went by and the computer keeps crashing and will not open any applications . DO NOT BUY GATEWAY COMPUTERS THEY ARE JUNK AND THE WARRANTY COMPANY IS HORRIBLE . YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN WARRANTY SERVICE IS OUT OF COUNTRY . COMPUTER HAS BEEN AT SERVICE FACILITY MORE THAN IN MY HANDS .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 255, 
+                                    "text": "DO NOT BUY"
+                                }
+                            ], 
+                            "id": "10224_0", 
+                            "question": "would you recommend this product ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 326, 
+                                    "text": "HORRIBLE"
+                                }
+                            ], 
+                            "id": "10224_1", 
+                            "question": "how is the warranty ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "96"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very useful for designers . Enjoy that Toshib force and durability unparalleled", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Strong"
+                                }
+                            ], 
+                            "id": "10113_0", 
+                            "question": "how is the performance ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "179"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "It has good speed and plenty of hard drive space . The only downfall is the volume control . The wheel that turns the volume up and down does n't work in real time . I have to keep turning it until it decides to lower and there is no mute .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 7, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "10185_0", 
+                            "question": "are u satisfied with the speed ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 22, 
+                                    "text": "plenty"
+                                }
+                            ], 
+                            "id": "10185_1", 
+                            "question": "how is the capacity of the hard drive ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 60, 
+                                    "text": "downfall"
+                                }
+                            ], 
+                            "id": "10185_2", 
+                            "question": "is the volume control good ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "387"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Computer runs very slow !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 14, 
+                                    "text": "very slow"
+                                }
+                            ], 
+                            "id": "10335_0", 
+                            "question": "how is the running speed ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00FU83YWS_16_A4OQXEH7BCYTV"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "it was easy to set up . I like the number pad for work so that 's nice", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 7, 
+                                    "text": "easy"
+                                }
+                            ], 
+                            "id": "10374_0", 
+                            "question": "is it easy to set up ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "B00KMRGF28_13_A29X881WVJ8402"
+        }
+    ], 
+    "version": "1.1"
+}

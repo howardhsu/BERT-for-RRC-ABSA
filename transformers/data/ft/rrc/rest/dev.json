@@ -1,0 +1,2365 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "context": "Best . Sushi . Ever . This place has ruined me for neighborhood sushi . Creative , consistent , fresh . Excellent sashimi , and the millennium roll is beyond delicious . Not cheap but very yummy . Love it .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 96, 
+                                    "text": "fresh"
+                                }
+                            ], 
+                            "id": "20261_0", 
+                            "question": "is their sushi fresh ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 104, 
+                                    "text": "Excellent"
+                                }
+                            ], 
+                            "id": "20261_1", 
+                            "question": "how is the sashimi ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Y#3"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Have eaten at Ginger House several times , and it 's always good . The fried dumplings are GREAT ! Finally a reliable Chinese restaurant !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 91, 
+                                    "text": "GREAT"
+                                }
+                            ], 
+                            "id": "20188_0", 
+                            "question": "do you like their fried dumplings ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 118, 
+                                    "text": "Chinese"
+                                }
+                            ], 
+                            "id": "20188_1", 
+                            "question": "what 's the style of their food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "507755"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This was my frist time at Cafe St. Bart 's and I must say how delicous the food and the service was . When I called this morning , I did n't think I would be able to get in at 12 , but I was able to get in , along with four other guests . I have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster . Other guests enjoyed pizza , santa fe chopped salad and fish and chips . I highly recommend Cafe St. Bart 's for their food , the ambience and wonderful service .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 270, 
+                                    "text": "lobster roll"
+                                }
+                            ], 
+                            "id": "20057_0", 
+                            "question": "any dish to recommend at Cafe St. Bart 's ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 285, 
+                                    "text": "not to much mayo ; you can tell it was a fresh lobster"
+                                }
+                            ], 
+                            "id": "20057_1", 
+                            "question": "why do you like their lobster roll ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 371, 
+                                    "text": "santa fe chopped salad"
+                                }
+                            ], 
+                            "id": "20057_2", 
+                            "question": "do they have salad ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 417, 
+                                    "text": "highly recommend"
+                                }
+                            ], 
+                            "id": "20057_3", 
+                            "question": "do you recommend cafe st. bart ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1300636"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This restaurant was way overhyped . My chow fun and chow see was really bland and oily . Okay-i do n't mind the oily part ( cause most are cooked that way ) but it was way too bland . The scallion pancakes and fried dumplings were nothing out of the ordinary .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 65, 
+                                    "text": "really bland and oily"
+                                }
+                            ], 
+                            "id": "20058_0", 
+                            "question": "how is their chow fun ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 231, 
+                                    "text": "nothing out of the ordinary"
+                                }
+                            ], 
+                            "id": "20058_1", 
+                            "question": "how are their fried dumplings ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1303984"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "My girlfiends and I ate at O.G . again last night . I have to say I have never had a disapointing meal here . We could have made a meal of the yummy dumplings from the dumpling menu . Luckily we saved room for the BBQ Salmon , Sea Bass and Crispy Duck . We got a little tipsy from the sake but is n't that what Saturday nights with the girlfriends are all about ?", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 73, 
+                                    "text": "never had a disapointing meal"
+                                }
+                            ], 
+                            "id": "20252_0", 
+                            "question": "how is this restaurant overall ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 214, 
+                                    "text": "BBQ Salmon"
+                                }
+                            ], 
+                            "id": "20252_1", 
+                            "question": "do they have salmon ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "958809"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Good Experience During our trip to NYC , we made reservations to dine in the pool room of the Four Seasons for their pre-theater menu ( offering a modified menu for $ 65 pp ) . The wine list was extensive - though the staff did not seem knowledgeable about wine pairings . The bread we received was horrible - rock hard and cold - and the \" free \" appetizer of olives was disappointing . However , our main course was wonderful . I had fish and my husband had the filet - both of which exceeded our expectations . The dessert ( we had a pear torte ) was good - but , once again , the staff was unable to provide appropriate drink suggestions . When we inquired about ports - the waitress listed off several but did not know taste variations or cost . Not what I would expect for the price and prestige of this location . All in all , I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 165, 
+                                    "text": "$ 65"
+                                }
+                            ], 
+                            "id": "20290_0", 
+                            "question": "how much for the menu per person ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 195, 
+                                    "text": "extensive"
+                                }
+                            ], 
+                            "id": "20290_1", 
+                            "question": "how is the wine list ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 299, 
+                                    "text": "horrible - rock hard and cold"
+                                }
+                            ], 
+                            "id": "20290_2", 
+                            "question": "how is the bread ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 372, 
+                                    "text": "disappointing"
+                                }
+                            ], 
+                            "id": "20290_3", 
+                            "question": "how is the free olive appetizer ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 554, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20290_4", 
+                            "question": "how is the dessert ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "TFS#10"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Great Atmosphere Went to this place this place on a real cold night and needed a quick meal . I highly recommend the fish tacos , everything else was ok . Cool atmosphere , the fire place in the back really ads to it but needs a bit more heat throughout on a cold night .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 117, 
+                                    "text": "fish tacos"
+                                }
+                            ], 
+                            "id": "20341_0", 
+                            "question": "any recommended dish ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "P#3"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "There is \" Expensive-but-worth-it \" and there is \" Expensive-and-WTF \" ? This is a twenty-something guy that does n't mind laying down $ 300 for a fine and delicious meal for 2 on special occassions . But $ 500 for a dinner for two that did n't include Wine ? Are you freaking kidding me ? Look , the appetizers were really good . The entree was also very good . Ca n't argue about that , but they are clearly over priced . What you are paying for is the environment and the name . Yes , the place is classy and beautiful , but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while . $ 500 included : Drinks : 2 glasses of Dom Perignon at $ 35 each . Starters : Kobe Beef Sashimi . Which of course is not real Kobe but Wagyu beef . Surprised that a place of this caliber would advertise it as Kobe . A beef Consomme . Entrees : Vanison steak and Bison Steak . Vanison was good but not amazing . Bison was quite excellent however . Dessert : pure disaster . Just not good at all . Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all . I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it . I was wrong . The Four Seasons has history and it is a sort of landmark of New York City restaurants , but trust me , they will charge you through the nose just so that you can say \" I 've been to the four seasons restaurant \" . I wanted to go there to see if it was worth it and sadly , curiousity got the best of me and I paid dearly for it . All in all , the food was great ( except for the dessserts ) . The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts . If you are going for the food , it will not be worth it . Yes , it is good , but I 've had better for cheaper . You would think they would make up for it with service , sadly , no . Service was just ok , it is not what you 'd expect for $ 500 .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 317, 
+                                    "text": "really good"
+                                }
+                            ], 
+                            "id": "20312_0", 
+                            "question": "how is the appetizer ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 351, 
+                                    "text": "very good"
+                                }
+                            ], 
+                            "id": "20312_1", 
+                            "question": "how is the entree ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 402, 
+                                    "text": "clearly over priced"
+                                }
+                            ], 
+                            "id": "20312_2", 
+                            "question": "how 's the price ? is it reasonable ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 696, 
+                                    "text": "$ 35"
+                                }
+                            ], 
+                            "id": "20312_3", 
+                            "question": "how much for a glass of Dom Perignon ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 929, 
+                                    "text": "good but not amazing"
+                                }
+                            ], 
+                            "id": "20312_4", 
+                            "question": "how is the vanison steak ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 962, 
+                                    "text": "quite excellent"
+                                }
+                            ], 
+                            "id": "20312_5", 
+                            "question": "how is the bison ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "TFS#5"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I was very disappointed with this restaurant . Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away . I had to ask her three times before she finally came back with the dish Ive requested . Food was okay , nothing great . Chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family . I/we will never go back to this place again .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 286, 
+                                    "text": "dry"
+                                }
+                            ], 
+                            "id": "20002_0", 
+                            "question": "do you like their Chow fun ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 292, 
+                                    "text": "pork shu mai"
+                                }
+                            ], 
+                            "id": "20002_1", 
+                            "question": "do they serve shu mai ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 309, 
+                                    "text": "more than usually greasy"
+                                }
+                            ], 
+                            "id": "20002_2", 
+                            "question": "how is their pork shu mai ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 397, 
+                                    "text": "never"
+                                }
+                            ], 
+                            "id": "20002_3", 
+                            "question": "will you come back again ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1016296"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This restaurant was recommended by a local ... as a matter of fact , he made the reservation for us and said we would not be disappointed ! We were n't ! The prices were CHEAP compared to the quality of service and food . We liked it so much , that we will always make it a point to dine here when we visit New York .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 170, 
+                                    "text": "CHEAP compared to the quality of service and food"
+                                }
+                            ], 
+                            "id": "20100_0", 
+                            "question": "what do you think of the price ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 307, 
+                                    "text": "New York"
+                                }
+                            ], 
+                            "id": "20100_1", 
+                            "question": "where is this restaurant located ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1490757"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Maggot in the food ! I 've been wanting to go to this place forever and finally got a table . The menu looked great , and the waiter was very nice , but when the food came , it was average . Nevertheless , I finished my plate , and that 's when I found a maggot in mushroom sauce at the bottom . I showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) . When the bill came , nothing was comped , so I told the manager very politely that we were willing to pay for the wine , but I did n't think I should have to pay for food with a maggot in it . Yes , I ate the food , but I certainly would not have if I had seen the maggot before eating , and I was at this point fairly sick to my stomach . The manager finally said he would comp the two glasses of wine ( which cost less than the food ) , and made it seem like a big concession . We paid and left because we did n't feel like arguing any more . I have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food . For a restaurant with such a good reputation and that is usually so packed , there was no reason for such a lack of intelligent customer service .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Maggot in the food"
+                                }
+                            ], 
+                            "id": "20295_0", 
+                            "question": "anything wrong with the food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "NP#4"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices . If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious . Check out the secret back room . Old school meets New world . I pray it stays open forever . Thank You Emilio . Ciao Bella", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 261, 
+                                    "text": "delicious"
+                                }
+                            ], 
+                            "id": "20104_0", 
+                            "question": "how is the mozzarella en carozza ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1506491"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Was there Friday night . Best Pastrami I ever had and great portion without being ridiculous . And I 've been to many NYC delis . My wife had the fried shrimp which are huge and loved it . Price no more than a Jersey deli but way better .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 25, 
+                                    "text": "Best Pastrami I ever had and great portion without being ridiculous"
+                                }
+                            ], 
+                            "id": "20020_0", 
+                            "question": "do you like their pastrami ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 169, 
+                                    "text": "huge and loved"
+                                }
+                            ], 
+                            "id": "20020_1", 
+                            "question": "how is the fried shrimp ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1125006"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere . My wife and I always enjoy the young , not always well trained but nevertheless friendly , staff , all of whom have a story . Sit outside in the warm weather ; inside for cozy winter . Decent wine at reasonable prices . Have been dozens of times and never failed to enjoy the experience . Our teenage kids love it , too .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 111, 
+                                    "text": "warm and lively"
+                                }
+                            ], 
+                            "id": "20022_0", 
+                            "question": "how is their atmosphere ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 325, 
+                                    "text": "Decent"
+                                }
+                            ], 
+                            "id": "20022_1", 
+                            "question": "how is their wine ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 340, 
+                                    "text": "reasonable"
+                                }
+                            ], 
+                            "id": "20022_2", 
+                            "question": "is their price acceptable ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1126814"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Wretched and retching This will be only the third online review I have ever made about a restaurant in my life . They have all been tonight and they have all been about the same restaurant . I have never been so disgusted by both food an service . For starters they delivered us someone else 's order . Fine , I wont hang you for that . However , once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair , ( sometimes you have to settle when it 's your only option ) , I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin . Not one to jump to complaints ( hence my lack of previous online reviewing ) , I called the restaurant to give them a heads up that their kitchen might want to check the cleanliness of their prep stations . My main concern was the sanity of the food that was being sent out to myself and others , but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation . None was made so i hung up . Less than three minutes passed before I found myself doubled over the toilet . My girlfriend , being slightly more aggressive , and having been equally disgusted causing her to throw out the remainder of her barely eaten meal , called back only to be informed that I was probably wrong and that it was most likely an oyster , and that we were also blacklisted from their restaurant . Not only have I worked in restaurants for many years , I am now in culinary school , I am a huge lover of oysters and fish , and my girlfriend is half Korean ! We know the difference between and oyster and bad fish . It was n't as if this restaurant had any major bragging points before hand , but now it 's simply repulsive . Eat at your own risk .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 198, 
+                                    "text": "never been so disgusted"
+                                }
+                            ], 
+                            "id": "20317_0", 
+                            "question": "how is their service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "DBG#2"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "A beautifully designed dreamy Egyptian restaurant that gets sceney at night . Watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky . Oh , and there 's hookah .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 30, 
+                                    "text": "Egyptian"
+                                }
+                            ], 
+                            "id": "20282_0", 
+                            "question": "what 's the style of this restaurant ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 124, 
+                                    "text": "delicious baba ganoush that 's more lemony than smoky"
+                                }
+                            ], 
+                            "id": "20282_1", 
+                            "question": "how is the baba ganoush ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "CLF#1"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "overpriced japanese food with mediocre service Went here on sat 1/26 and was disappointed . Chicken teriyaki had tomato or pimentos on top ? ? food was luke warm . The waitress was not attentive at all . I was looking for banana tempura for dessert and they dont have . Too many other good places to have to settle .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 11, 
+                                    "text": "japanese"
+                                }
+                            ], 
+                            "id": "20271_0", 
+                            "question": "what 's the style of their food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 92, 
+                                    "text": "Chicken teriyaki"
+                                }
+                            ], 
+                            "id": "20271_1", 
+                            "question": "do they have chicken teriyaki ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 152, 
+                                    "text": "luke warm"
+                                }
+                            ], 
+                            "id": "20271_2", 
+                            "question": "is their food hot when served ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 181, 
+                                    "text": "not attentive at all"
+                                }
+                            ], 
+                            "id": "20271_3", 
+                            "question": "how is the service there ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Y#5"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "i have eaten here a handful of times , for no reason besides sheer convenience . ( i hang out , and live , in the neighborhood.. ) the food is decent . however , it 's the service that leaves a bad taste in my mouth . i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check . i know , you were too busy showing off your vintage tee shirt and looking bored , but my agenda is i 'm here to eat and enjoy the company of friends , seeking a pleasant experience . well , i did n't find it there , and trust , i have told everyone i can think of about my experience . the last time i walked by it looked pretty empty . hmmm .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 143, 
+                                    "text": "decent"
+                                }
+                            ], 
+                            "id": "20008_0", 
+                            "question": "how is the food there ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1058221"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "What a great place ! Not the typical NYC gimmick theme restaurant . A cool bar with great food , and tons of excellent beer . And even with it 's Pub atmosphere they were great to my kids too ! Loved it !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 84, 
+                                    "text": "great"
+                                }
+                            ], 
+                            "id": "20203_0", 
+                            "question": "how is the food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "535171"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent . From the spectacular caviar to the hospitable waitstaff , I felt like royalty and enjoyed every second of it . Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed . I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 407, 
+                                    "text": "Caviar Russe"
+                                }
+                            ], 
+                            "id": "20133_0", 
+                            "question": "any recommended dish here ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 471, 
+                                    "text": "fantastic"
+                                }
+                            ], 
+                            "id": "20133_1", 
+                            "question": "how is their service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1700205"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This place has got to be the best japanese restaurant in the new york area . I had a great experience . Food is great . Service is top notch . I have been going back again and again .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 29, 
+                                    "text": "best japanese restaurant in the new york area"
+                                }
+                            ], 
+                            "id": "20009_0", 
+                            "question": "how do you think about this japanese restaurant ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 112, 
+                                    "text": "great"
+                                }
+                            ], 
+                            "id": "20009_1", 
+                            "question": "how is the food there ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 131, 
+                                    "text": "top notch"
+                                }
+                            ], 
+                            "id": "20009_2", 
+                            "question": "how is their service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1062641"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This place is a great bargain . Authentic Pakistani food . People are always friendly . Do n't waste money on decor . Just straight up cheap , good food .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 32, 
+                                    "text": "Authentic"
+                                }
+                            ], 
+                            "id": "20220_0", 
+                            "question": "is their food authentic ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 42, 
+                                    "text": "Pakistani"
+                                }
+                            ], 
+                            "id": "20220_1", 
+                            "question": "what is the style of their food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "624715"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I came here with my boyfriend for our anniversary because it was highly recommended to him by a friend . The decor is very simple but comfortable . The food was delicious but do not come here on a empty stomach . The portions are small but being that the food was so good makes up for that . You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert . The staff there is very attentive and down to earth . I loved it and would go again .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 230, 
+                                    "text": "small"
+                                }
+                            ], 
+                            "id": "20232_0", 
+                            "question": "how is the portion ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 296, 
+                                    "text": "must have"
+                                }
+                            ], 
+                            "id": "20232_1", 
+                            "question": "how is the chocolate bread pudding ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 336, 
+                                    "text": "out of this world"
+                                }
+                            ], 
+                            "id": "20232_2", 
+                            "question": "how is the crabmeat lasagna ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 419, 
+                                    "text": "very attentive and down to earth"
+                                }
+                            ], 
+                            "id": "20232_3", 
+                            "question": "how is the staff there ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 469, 
+                                    "text": "would"
+                                }
+                            ], 
+                            "id": "20232_4", 
+                            "question": "will you come back again ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "717570"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Do n't go with a larger group than 4 ! I went here for a family birthday dinner . Five of us walked in at approximately 6:20 on a Thursday evening . The hostess said \" Wow that 's a large group , unless you are n't together \" , to which I replied \" no we are , and there will be one more , so a table for six please . \" At first we were a little taken aback , as this seemed to present a problem , although the restaurant looked fairly empty , but they hastily put the table together for us . The menu is fairly simple without much descriptions . There was no tap beer that evening , which was a disappointment . Not much of a selection of bottled beer either , we went with Brahma . The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion ( maybe 3 of each ) . The lobster knuckles ( special of the day ) were ok , but pretty tasteless . I believe there were 2 shrimp in the \" salt encrusted shrimp \" appetizer . After we ate our appetizers ( which took all of 8 minutes ) we ordered another round of Brahma 's - and tried to stall a little as we waited for our sixth dinner member . The waitress appeared and asked us if we wanted to go ahead and order . We replied that we would like to wait 5 more minutes if that was okay . She replied \" well it would be more convenient for us if you ordered now , since you are a larger party , and it might get crowded . \" We called the other person who was very close by , and she told us to order for her , so we did . The food arrived in about 15 minutes . I had the Thai style Fried Sea Bass ... which was very good . Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice ! I heard the lobster roll was excellent . They seemed to continue to rush us along , taking plates without asking if we were done ( my sister still had her fork in hand ) . All in all the food was good - a little on the expensive side , but fresh . Service not the friendliest to our \" large party \" ! Probably would not go back here .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 789, 
+                                    "text": "tiny portion ( maybe 3 of each )"
+                                }
+                            ], 
+                            "id": "20314_0", 
+                            "question": "how is the portion of the oyster and clams ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 873, 
+                                    "text": "ok , but pretty tasteless"
+                                }
+                            ], 
+                            "id": "20314_1", 
+                            "question": "how is the lobster knuckles ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 922, 
+                                    "text": "2"
+                                }
+                            ], 
+                            "id": "20314_2", 
+                            "question": "how many shrimps in the salt encrusted shrimp ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1613, 
+                                    "text": "very good"
+                                }
+                            ], 
+                            "id": "20314_3", 
+                            "question": "how is the thai style fried sea bass ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1794, 
+                                    "text": "excellent"
+                                }
+                            ], 
+                            "id": "20314_4", 
+                            "question": "how is the lobster roll ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1961, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20314_5", 
+                            "question": "how is the food overall ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 2005, 
+                                    "text": "fresh"
+                                }
+                            ], 
+                            "id": "20314_6", 
+                            "question": "is their food fresh ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 2021, 
+                                    "text": "not the friendliest to our \" large party \""
+                                }
+                            ], 
+                            "id": "20314_7", 
+                            "question": "how is their service for a large party ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "BFC#9"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I loved this place ! ! I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded . The food was very good , a great deal , and the place its self was great . The wait staff is very freindly , they make it feel like you 're eating in a freindly little european town .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 158, 
+                                    "text": "very good"
+                                }
+                            ], 
+                            "id": "20125_0", 
+                            "question": "like their food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1655521"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Best Indian Restaurant in the City Decor needs to be upgraded but the food is amazing !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 78, 
+                                    "text": "amazing"
+                                }
+                            ], 
+                            "id": "20284_0", 
+                            "question": "how is the food there ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "BG#6"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "MMMMMMMMMmmmmmm so delicious", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 16, 
+                                    "text": "so delicious"
+                                }
+                            ], 
+                            "id": "20281_0", 
+                            "question": "how is their food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "ADLT#4"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Good , fast service . I would highly recommend . Food is great and inexpensive . The location is perfect . Give it a try and enjoy .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Good , fast"
+                                }
+                            ], 
+                            "id": "20173_0", 
+                            "question": "how is their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 30, 
+                                    "text": "highly recommend"
+                                }
+                            ], 
+                            "id": "20173_1", 
+                            "question": "will you recommend this place ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 57, 
+                                    "text": "great"
+                                }
+                            ], 
+                            "id": "20173_2", 
+                            "question": "how do you like their food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 97, 
+                                    "text": "perfect"
+                                }
+                            ], 
+                            "id": "20173_3", 
+                            "question": "how is their location ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "475298"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "great food This place has great indian chinese food . The flavors are amazing and the value is phenomenal . Be prepared to wait , because the place is pretty tiny . Also , they do not take credit card so come with cash ! Even though the place is not beautiful , the food speaks for itself . Best Indian Chinese in the city , by far !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 32, 
+                                    "text": "indian chinese"
+                                }
+                            ], 
+                            "id": "20309_0", 
+                            "question": "what is the style of their food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 95, 
+                                    "text": "phenomenal"
+                                }
+                            ], 
+                            "id": "20309_1", 
+                            "question": "how is the value of the food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 108, 
+                                    "text": "Be prepared"
+                                }
+                            ], 
+                            "id": "20309_2", 
+                            "question": "is it normal to wait ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 151, 
+                                    "text": "pretty tiny"
+                                }
+                            ], 
+                            "id": "20309_3", 
+                            "question": "is this place large ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 180, 
+                                    "text": "not"
+                                }
+                            ], 
+                            "id": "20309_4", 
+                            "question": "do they accept credit card ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "TM#6"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "First went here to enjoy their garden terrace . The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed . The Steak Tartare is a great bet , they fix it for you at the table . Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm . Great wine selection , Gigondas is worth the price , and the house champagne is a great value . It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area . Have recommended the place to friends , always gets good response .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 91, 
+                                    "text": "prompt and helpful , but not over-bearing or rushed"
+                                }
+                            ], 
+                            "id": "20034_0", 
+                            "question": "what do you think about their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 323, 
+                                    "text": "Great"
+                                }
+                            ], 
+                            "id": "20034_1", 
+                            "question": "how is their wine selection ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 472, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20034_2", 
+                            "question": "how is the vibe in weekends ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 496, 
+                                    "text": "French"
+                                }
+                            ], 
+                            "id": "20034_3", 
+                            "question": "what 's the style of their food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1189674"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Whenever you need a Sushi fix , Mizu will be there with quality fish and great service . Delivery is fast too . Great friendly service , Fast seating , Fast Delivery , Excellent sushi . A little overpriced but worth it once you take a bite .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 168, 
+                                    "text": "Excellent"
+                                }
+                            ], 
+                            "id": "20094_0", 
+                            "question": "do you like their sushi ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1470286"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I absolutely Loved this place . My friends spoke so much about it for months , I finally made the time to come down ear and dine in . Excellent atmosphere , delicious dishes good and friendly service . this is can became on e of the NY Italian Food fare institutions . I think that it is absolutely brilliant and well runned business operation . The wine list is also really nice .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 134, 
+                                    "text": "Excellent"
+                                }
+                            ], 
+                            "id": "20130_0", 
+                            "question": "how is the atmosphere ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 157, 
+                                    "text": "delicious"
+                                }
+                            ], 
+                            "id": "20130_1", 
+                            "question": "how are their dishes ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 183, 
+                                    "text": "friendly"
+                                }
+                            ], 
+                            "id": "20130_2", 
+                            "question": "how is their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 368, 
+                                    "text": "really nice"
+                                }
+                            ], 
+                            "id": "20130_3", 
+                            "question": "how is the wine list ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1663111"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Best Reuben sandwich ever ! A classic ! Do n't miss Bloom 's on your next trip to Manhatten . It was the first place we ate on our first trip to New York , and it will be the last place we stop as we head out of town on our next trip to New York . Thanks Bloom 's for a lovely trip .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Best Reuben sandwich ever"
+                                }
+                            ], 
+                            "id": "20217_0", 
+                            "question": "how is their reuben sandwich ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "611117"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I have never before eaten 40 pieces of relatively good nigiri . Stuffing yourself with Japanese food is a rare thing . You can do it here . $ 20 for all you can eat sushi can not be beaten .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 140, 
+                                    "text": "$ 20"
+                                }
+                            ], 
+                            "id": "20243_0", 
+                            "question": "how much for the buffet ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "758263"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized . The staff is very good . Love their drink menu . I highly recommend this beautiful place .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 60, 
+                                    "text": "great all the times"
+                                }
+                            ], 
+                            "id": "20278_0", 
+                            "question": "how is the food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 171, 
+                                    "text": "very good"
+                                }
+                            ], 
+                            "id": "20278_1", 
+                            "question": "how is the staff there ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 183, 
+                                    "text": "Love"
+                                }
+                            ], 
+                            "id": "20278_2", 
+                            "question": "how is the drink menu ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 209, 
+                                    "text": "highly recommend this beautiful place"
+                                }
+                            ], 
+                            "id": "20278_3", 
+                            "question": "will you recommend this place ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "TR#1"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This place does n't make any sense Just want to warn you all - do n't waste your time and money . This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional ... This place is not inviting and the food is totally weird . The concept of japanese tapas is newly created and clearly does n't work . The food they serve is not comforting , not appetizing and uncooked . Go to japanese sushi place or Spanish tapas place - this creation in Williamsburg is a misstake .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 113, 
+                                    "text": "totally weird"
+                                }
+                            ], 
+                            "id": "20328_0", 
+                            "question": "how is the decoration of this place ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 260, 
+                                    "text": "make you dizzy and delusional"
+                                }
+                            ], 
+                            "id": "20328_1", 
+                            "question": "anything wrong with the mirrored walls ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 386, 
+                                    "text": "newly created and clearly does n't work"
+                                }
+                            ], 
+                            "id": "20328_2", 
+                            "question": "what do you think of the japanese tapas ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Z#7"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Great pizza and fantastic service . There was a small wait , but shorter than I expected . Located at the end of a magnificent block . Very cozy and warm inside ... .. I will be back !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Great"
+                                }
+                            ], 
+                            "id": "20029_0", 
+                            "question": "how is the pizza ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 16, 
+                                    "text": "fantastic"
+                                }
+                            ], 
+                            "id": "20029_1", 
+                            "question": "is their service OK ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 99, 
+                                    "text": "at the end of a magnificent block"
+                                }
+                            ], 
+                            "id": "20029_2", 
+                            "question": "where is it located ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 170, 
+                                    "text": "will"
+                                }
+                            ], 
+                            "id": "20029_3", 
+                            "question": "will you come back again ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1153034"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I recently went to this restaurant with some co-workers for lunch and had an amazing time . The staff was accomodating , the food was absolutely delicious and the place is lovely . We even had a visit from the Manager who wanted to make sure we were enjoying ourselves . Yes , the prices are high , but I felt it was worth it . We all felt it was worth it .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 281, 
+                                    "text": "prices are high"
+                                }
+                            ], 
+                            "id": "20068_0", 
+                            "question": "is this restaurant expensive ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1347423"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Suan is a great place that I often take my friends ( classmates ) too . Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again . I LOVE their Thai noodles with shrimp and chicken and coconut juice is the MUST ! I was in love with Pongsri on 48th , but compared to Suan it is slow in service and overpriced . I will go back to Suan soon ! In summer-eat outside on a terrace ( another great feature of Suan ) ! ! !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 88, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20181_0", 
+                            "question": "how is the location ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 155, 
+                                    "text": "very reasonable"
+                                }
+                            ], 
+                            "id": "20181_1", 
+                            "question": "how is their price ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 224, 
+                                    "text": "LOVE"
+                                }
+                            ], 
+                            "id": "20181_2", 
+                            "question": "do you like their Thai noodle ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248, 
+                                    "text": "with"
+                                }
+                            ], 
+                            "id": "20181_3", 
+                            "question": "does their thai noodles contain coconut juice ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "493013"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "bad staff I generally like this place . The food is good . The design of the space is good . But the service is HORRID ! I was there for brunch recently , and we were tag teamed by a waitress and a waiter . The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand . I ca n't believe that it was , but please put the bag down before delivering food ! The waitress came to check in on us every few minutes , and began to clear the plates while half of us were still eating ( a big pet peeve of mine that happens almost everywhere , so I try to ignore it ) . I could n't ignore the fact that she reach over the plate of one of my friends , who was in mid bite , to clear the table . She then put the check down without asking if we were done , and came to check on the bill every two minutes , even though we were one of three occupied tables . I wish I could like this place more , and I wish someone would retrain the staff .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 86, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20346_0", 
+                            "question": "how is the design of the space ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 112, 
+                                    "text": "HORRID"
+                                }
+                            ], 
+                            "id": "20346_1", 
+                            "question": "how do you like their service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "FF#10"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Good creative rolls ! Yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much . They have great rolls , the triple color and norwegetan rolls , are awesome and filling . One special roll and one regular roll is enough to fill you up , but save room for dessert ! They have a delicious banana chocolate dessert , as well as a great green tea tempura . The appetizers are also delicious !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 205, 
+                                    "text": "awesome and filling"
+                                }
+                            ], 
+                            "id": "20301_0", 
+                            "question": "how is the norwegetan roll ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 332, 
+                                    "text": "delicious"
+                                }
+                            ], 
+                            "id": "20301_1", 
+                            "question": "how is their banana chocolate dessert ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Y#9"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "For a Fabulous Wedding ! My daughter 's wedding reception at Water 's Edge received the highest compliments from our guests . Everyone raved about the atmosphere ( elegant rooms and absolutely incomparable views ) and the fabulous food ! Service was wonderful ; everyone was cheerfully cooperative and helpful . Paul , the maitre d ' , was totally professional and always on top of things . Thank you everyone at Water 's Edge . Ruth , mother of the Bride", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 222, 
+                                    "text": "fabulous"
+                                }
+                            ], 
+                            "id": "20288_0", 
+                            "question": "how is the food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 250, 
+                                    "text": "wonderful"
+                                }
+                            ], 
+                            "id": "20288_1", 
+                            "question": "what is your opinion about their service overall ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "WE#4"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Mizu is the Japenese find in Grammercy . While their kitchen food is delicious , their Sushi is out of this world . Mizu is home to creative and unique rolls not to found anywhere else . Not only is the cuisine the best around , the service has always been attentive and charming . Warning : You may find it difficult to dine at other Japanese restaurants after a visit to Mizu !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 69, 
+                                    "text": "delicious"
+                                }
+                            ], 
+                            "id": "20156_0", 
+                            "question": "how do you like their food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 96, 
+                                    "text": "out of this world"
+                                }
+                            ], 
+                            "id": "20156_1", 
+                            "question": "how is their sushi ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 257, 
+                                    "text": "attentive and charming"
+                                }
+                            ], 
+                            "id": "20156_2", 
+                            "question": "how is their service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "397331"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Sushi experience was unbelievable with my fiance . Try it ! Very pleased", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 21, 
+                                    "text": "unbelievable"
+                                }
+                            ], 
+                            "id": "20300_0", 
+                            "question": "how is their sushi ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Z#2"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The food here is rather good , but only if you like to wait for it . I like the somosas , chai , and the chole , but the dhosas and dhal were kinda dissapointing . The service varys from day to day- sometimes they 're very nice , and sometimes not . The kitchen however , is almost always slow . Also , specify if you like your food spicy- its rather bland if you do n't . The ambience is pretty and nice for conversation , so a casual lunch here would probably be best .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 17, 
+                                    "text": "rather good , but only if you like to wait for it"
+                                }
+                            ], 
+                            "id": "20014_0", 
+                            "question": "how is the food here ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 71, 
+                                    "text": "like"
+                                }
+                            ], 
+                            "id": "20014_1", 
+                            "question": "do you like their somosas ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 142, 
+                                    "text": "kinda dissapointing"
+                                }
+                            ], 
+                            "id": "20014_2", 
+                            "question": "how is the dhal ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 176, 
+                                    "text": "varys from day to day- sometimes they 're very nice , and sometimes not"
+                                }
+                            ], 
+                            "id": "20014_3", 
+                            "question": "is the service good ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 389, 
+                                    "text": "pretty and nice for conversation"
+                                }
+                            ], 
+                            "id": "20014_4", 
+                            "question": "how is the ambiance here ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1086478"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This place is incredibly tiny . They refuse to seat parties of 3 or more on weekends . The hostess is rude to the point of being offensive . The food was bland oily . I just do n't understand all the hype ...", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 14, 
+                                    "text": "incredibly tiny"
+                                }
+                            ], 
+                            "id": "20024_0", 
+                            "question": "is this place roomy ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 37, 
+                                    "text": "refuse to seat parties of 3 or more"
+                                }
+                            ], 
+                            "id": "20024_1", 
+                            "question": "can I have a party of 6 on weekends ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 154, 
+                                    "text": "bland oily"
+                                }
+                            ], 
+                            "id": "20024_2", 
+                            "question": "how is the food there ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1131595"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Tasty Dog ! An awesome organic dog , and a conscious eco friendly establishment . One of the best hot dogs I have ever eaten . Ca n't wait to go back .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Tasty Dog ! An awesome organic dog"
+                                }
+                            ], 
+                            "id": "20256_0", 
+                            "question": "how is their hot dog ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 130, 
+                                    "text": "n't wait"
+                                }
+                            ], 
+                            "id": "20256_1", 
+                            "question": "will you come back again later ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "BHD#9"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Went to Cafe Spice with 4 of my friends on a saturday night . We were greeted promptly by the waiter who was very nice and cordial . She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food . We were fast to order the appetizer platter since we were very hungry . The food looked very appetizing and delicious since it came on a variety of fancy plates . We ended our great experience by having Gulab Jamun ( dessert ) recommended by the waiter . I thanked my friend who recommended me this restaurant and will certainly recommend it to others .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 470, 
+                                    "text": "Gulab Jamun"
+                                }
+                            ], 
+                            "id": "20148_0", 
+                            "question": "what do you have for dessert ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1728733"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Love the scene first off- the place has a character and nice light to it..very fortunate , location wise . The pizza was pretty good and huge . The price very reasonable . We were 4 and got the family size penne a la vodka which was tremendously gigantic portion ... a bucket of food literally . We got most of it back at home with us . I would say that all was fine and tasty but the heaviness on my stomach someting that i ca n't not mention or undermine . The pasta penne was pretty extra buttery , creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count , penne ... got a little moody afterwards cause was stuffed ... lol", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 121, 
+                                    "text": "pretty good and huge"
+                                }
+                            ], 
+                            "id": "20247_0", 
+                            "question": "how is pizza there ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 154, 
+                                    "text": "very reasonable"
+                                }
+                            ], 
+                            "id": "20247_1", 
+                            "question": "how is the price ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 233, 
+                                    "text": "tremendously gigantic"
+                                }
+                            ], 
+                            "id": "20247_2", 
+                            "question": "how is the portion of family size penne a la vodka ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "875139"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The service was excellent and the food was delicious . We are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura . Overall the restaurant is more expensive than our other sushi favorites , but everything was delicious . Definitely a great spot for a nice occasion or date .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 16, 
+                                    "text": "excellent"
+                                }
+                            ], 
+                            "id": "20145_0", 
+                            "question": "do you like their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 43, 
+                                    "text": "delicious"
+                                }
+                            ], 
+                            "id": "20145_1", 
+                            "question": "is their food good ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1726427"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The Cypriot restaurant has a lot going for it . But the best pork souvlaki I ever had is the main thing . Trust me . Run do n't walk .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 56, 
+                                    "text": "best"
+                                }
+                            ], 
+                            "id": "20257_0", 
+                            "question": "how is the pork souvlaki ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "BzG#1"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I am not the most experienced person when it comes to Thai food , but my friend who took me there is . He has visited Thailand and is quite expert on the cuisine . It was wonderful . the salads are delicious , both refreshing and very spicy . We had Pam 's special fried fish and it was amazing . too large for just two people but nothing was left . Unbelievable .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 198, 
+                                    "text": "delicious , both refreshing and very spicy"
+                                }
+                            ], 
+                            "id": "20062_0", 
+                            "question": "how is their salad ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 287, 
+                                    "text": "amazing"
+                                }
+                            ], 
+                            "id": "20062_1", 
+                            "question": "how is their fried fish ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1328078"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Excellent food , although the interior could use some help . The space kind of feels like an Alice in Wonderland setting , without it trying to be that . I paid just about $ 60 for a good meal , though : ) Great sake !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Excellent"
+                                }
+                            ], 
+                            "id": "20259_0", 
+                            "question": "how is the food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Z#3"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The worst excuse for Japanese food I 've ever encountered . The soup for the udon was soy sauce and water . The sushi was awful ! The rice was poor quality and was cooked so badly it was hard . Furthermore , the rice had no seasoning , so the sushi was bland and disgusting . The fish was adequate , but inexpertly sliced . It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 21, 
+                                    "text": "Japanese"
+                                }
+                            ], 
+                            "id": "20172_0", 
+                            "question": "what 's the style of their food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 122, 
+                                    "text": "awful ! The rice was poor quality and was cooked so badly it was hard"
+                                }
+                            ], 
+                            "id": "20172_1", 
+                            "question": "how is their sushi ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "470488"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Fabulous food - if the front of house staff do n't put you off \u2013 We live nearby BFC . It 's a little out of our price range for dining there except on special occasions , but we 've eaten there 6 times in the last 2 years . Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return . As BFC does n't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated , which can be over an hour later ! The frizzy retro girl ( with winged/ Dame Edna glasses ) will yell at you if you try to order a drink . I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she \" had a BBQ to go to \" that night - WTF ? ? I 'd be horrified if my staff were turning away customers so early and so rudely ! There 's another girl who I ca n't describe , she is about 5'6 \" with brown hair , who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said , so her uninvited opinions are often out of context and nothing to do with what you 're *really* talking about . I 'm a friendly person , so I would n't mind had she not been so nasty and gotten so personal . Again , I 'd be super upset if that were my employee . Considering you will spend at least $ 60 a head , I expect better service . So , if you 're walking by and thinking about dining , you might want to see who 's going to be seating you first ...", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Fabulous"
+                                }
+                            ], 
+                            "id": "20336_0", 
+                            "question": "like their food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1470, 
+                                    "text": "expect better"
+                                }
+                            ], 
+                            "id": "20336_1", 
+                            "question": "how is their service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "BFC#7"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Went here last night - nice decor , good service , but the food was surprisingly excellent . The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people . Among all of the new 5th avenue restaurants , this offers by far one of the best values for your money . Ca n't wait to go back .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 36, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20227_0", 
+                            "question": "how is their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 68, 
+                                    "text": "surprisingly excellent"
+                                }
+                            ], 
+                            "id": "20227_1", 
+                            "question": "how is the food ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 110, 
+                                    "text": "HUGE"
+                                }
+                            ], 
+                            "id": "20227_2", 
+                            "question": "how is the portion ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "682250"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Impressed ... Subtle food and service Noodle pudding is exactly the type of service and food I enjoy . Servers are all different , Greg is my favorite . Sometimes tables do n't understand his sense of humor but it 's refreshing to have a server who has personality , professionalism , and respects the privacy of your dinner . This is the first place I 've been that a runner remembers my order ... hope he likes his job because I have half a mind to steal him for my restaurant . Prices are fair across the board for both food and bev . I go out to eat and like my courses , servers are patient and never rush courses or force another drink . Restaurants in manhattan should try to model food and service after this place .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 492, 
+                                    "text": "fair across the board for both food and bev"
+                                }
+                            ], 
+                            "id": "20292_0", 
+                            "question": "how is the price ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 588, 
+                                    "text": "patient and never rush courses or force another drink"
+                                }
+                            ], 
+                            "id": "20292_1", 
+                            "question": "how is the server ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "NP#3"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Maitre-D- \" Eat and get out \" My family ate here last weekend . The food and service were fine , however the maitre-D was incredibly unwelcoming and arrogant . While finishing our meals which included a high-end bottle of wine , our son 's fiance joined us for a glass of wine and dessert . This guy refused to seat her and she left , followed shortly by the four of us , but not before I told him that in my 40 years of world travel , including Paris , that I had never seen such a display of bad behavior by a frontman in a restaurant . His response was smug , arrogant , and condescending , totally consistent with his deportment on display all evening . A word to the wise : you ca n't dine here and disturb the maitre-D 's sense of \" table turnover \" , as whacked as it is , or else . If you go here , do it on his off-night .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 90, 
+                                    "text": "fine , however the maitre-D was incredibly unwelcoming and arrogant"
+                                }
+                            ], 
+                            "id": "20337_0", 
+                            "question": "how is their service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "ADLT#6"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "WORST PLACE ON SMITH STREET IN BROOKLYN Very immature bartender , didnt know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and werent very attentive to all the customers . I would never recommend this place to anybody even for a casual dinner .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 119, 
+                                    "text": "so slowwwww"
+                                }
+                            ], 
+                            "id": "20269_0", 
+                            "question": "what about their service ? is it fast ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 146, 
+                                    "text": "not fresh or warm"
+                                }
+                            ], 
+                            "id": "20269_1", 
+                            "question": "how is the food there ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "P#1"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "great taste Great , original taste . For me dishes a little oily , but overall dining experience good . Helpful service and average price per dish $ 10 . The only thing that strikes you is the decor ? ( not very pleasant ) .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 104, 
+                                    "text": "Helpful"
+                                }
+                            ], 
+                            "id": "20308_0", 
+                            "question": "how is their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 147, 
+                                    "text": "$ 10"
+                                }
+                            ], 
+                            "id": "20308_1", 
+                            "question": "how much is the average price per dish ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 203, 
+                                    "text": "not very pleasant"
+                                }
+                            ], 
+                            "id": "20308_2", 
+                            "question": "how is the decor ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "TM#5"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "The tuna and wasabe potatoes are excellent . The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful . Inside is a little cramped , but to be expected . Service was prompt and courteous . This was a repeat visit and we 'll definitely be back again .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 243, 
+                                    "text": "prompt and courteous"
+                                }
+                            ], 
+                            "id": "20043_0", 
+                            "question": "what do you think of their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 301, 
+                                    "text": "definitely"
+                                }
+                            ], 
+                            "id": "20043_1", 
+                            "question": "will you come back again ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1232468"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I love this place I was n't here for the pizza so I ca n't comment on that yet but what I had was very good . The service was quick and friendly . Everyone was smiling so that made me feel welcome . I thought the restaurant was nice and clean . I ordered the vitello alla marsala and I was pretty impressed . The veal and the mushrooms were cooked perfectly . The potato balls were not dry at all ... in fact it was buttery . The only downside ... they only take cash which is OK if you know about it ahead of time . I 'll be back for sure .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 126, 
+                                    "text": "quick and friendly . Everyone was smiling so that made me feel welcome"
+                                }
+                            ], 
+                            "id": "20268_0", 
+                            "question": "do you think their service is OK ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 382, 
+                                    "text": "not dry at all"
+                                }
+                            ], 
+                            "id": "20268_1", 
+                            "question": "is the potato ball dry ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "PP#4"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "They all know you . Good food . Good drink . How do you rate home ?", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 20, 
+                                    "text": "Good"
+                                }
+                            ], 
+                            "id": "20212_0", 
+                            "question": "how is the food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "571962"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "Great Indian food and the service is incredible . The owner truly caters to all your needs . When family came in he gave them apps to test their palets , and then ordered for them . Everyone was more then happy with his choices . Great food and the prices are very reasonable .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 37, 
+                                    "text": "incredible"
+                                }
+                            ], 
+                            "id": "20233_0", 
+                            "question": "how is the service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 260, 
+                                    "text": "very reasonable"
+                                }
+                            ], 
+                            "id": "20233_1", 
+                            "question": "what do you think of the price ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "720418"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I had a grat time at Jekyll and Hyde ! I loved everythig about it-especially the shows and actors . Our server was very helpful and friendly . I am bringing my whole family back next time . The food was good too .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 81, 
+                                    "text": "shows and actors"
+                                }
+                            ], 
+                            "id": "20042_0", 
+                            "question": "what do you like most about Jekyll and Hyde ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 203, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20042_1", 
+                            "question": "do you like their food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1230993"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "They forgot a sandwich , did n't include plastic forks , and did n't include pita with the hummus platter . Also , the sandwiches ( nearing $ 7 ) did n't come with anything like chips or a side . Overall , not worth the money . Eating in , the atmosphere saves it , but at your desk , it 's a very disappointing experience .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 132, 
+                                    "text": "nearing $ 7"
+                                }
+                            ], 
+                            "id": "20116_0", 
+                            "question": "how much for a sandwich ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "1611489"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "As a fan of Thai , I have tried quite a few different restaurants in NYC and this one was definitely the worst . The food was not fresh , the sauces were bland and very oily . It just was n't Thai .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 126, 
+                                    "text": "not fresh , the sauces were bland and very oily"
+                                }
+                            ], 
+                            "id": "20218_0", 
+                            "question": "how is the food ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "615180"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice . Their calzones are horrific , bad , vomit-inducing , YUCK . They smell like they stuff them with old canned vegetables like the spinach mushroom calzone . The counter service is bad . They charge different prices all the time . They 're rude at times , and not very friendly . NO PIZZA 33 for me !", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 32, 
+                                    "text": "good"
+                                }
+                            ], 
+                            "id": "20161_0", 
+                            "question": "how is their selection for thin crust pizza ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 67, 
+                                    "text": "including"
+                                }
+                            ], 
+                            "id": "20161_1", 
+                            "question": "do they have basil slice ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 114, 
+                                    "text": "horrific , bad , vomit-inducing , YUCK . They smell like they stuff them with old canned vegetables like the spinach mushroom calzone"
+                                }
+                            ], 
+                            "id": "20161_2", 
+                            "question": "how are their calzones ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 273, 
+                                    "text": "bad"
+                                }
+                            ], 
+                            "id": "20161_3", 
+                            "question": "do you like their counter service ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "433878"
+        }, 
+        {
+            "paragraphs": [
+                {
+                    "context": "I recently tried Suan and I thought that it was great . This little place definitely exceeded my expectations and you sure get a lot of food for your money . The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals . I have to say that I am pleasantly suprised and I will most likely stop in again if I am in the neighborhood .", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 174, 
+                                    "text": "fast and friendly"
+                                }
+                            ], 
+                            "id": "20211_0", 
+                            "question": "how is their service ?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 330, 
+                                    "text": "most likely stop in again if I am in the neighborhood"
+                                }
+                            ], 
+                            "id": "20211_1", 
+                            "question": "will you come back again ?"
+                        }
+                    ]
+                }
+            ], 
+            "title": "565344"
+        }
+    ], 
+    "version": "1.1"
+}
