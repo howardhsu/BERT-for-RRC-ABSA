@@ -1,6 +1,8 @@
 # BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
 code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)".
 
+We found that BERT domain post-training (e.g, 1 day of training) is an economic way to boost the performance of BERT, because it is much harder (e.g., 10 days of training) to learn a general knowledge shared across domains and, meanwhile, loosing the long-tailed domain-specific knowledge.
+
 ## News
 [Code base](transformers.md) on huggingface `transformers` is under `transformers`, with more cross-domain models.  
 Preprocessing ABSA xmls organized into a separate [rep](https://github.com/howardhsu/ABSA_preprocessing).  
