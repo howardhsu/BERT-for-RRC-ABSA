@@ -233,7 +233,7 @@ class E2EMetric(Metric):
     @classmethod
     def evaluate(cls, config, pred_json):
 
-        OT = {'O': 0, 'EQ': 1, 'positive': 2, 'negative': 3, 'neutral': 4}
+        OT = {'O': 0, 'EQ': 1, 'T-POS': 2, 'T-NEG': 3, 'T-NEU': 4}
         # the evaluation needs a strange extra indexing.
         y_pred = [[[OT[pred] for pred in preds]] for preds in pred_json["preds_list"]]
         y_true = [[[OT[t] for t in trues]] for trues in pred_json["out_label_list"]] # TODO: change the name.
