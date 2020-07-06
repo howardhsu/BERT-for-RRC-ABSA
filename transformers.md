@@ -38,7 +38,7 @@ Loading the post-trained weights are as simple as, e.g.,
 
 ```python
 import torch
-from transformers import BertModel
+from transformers import AutoTokenizer, AutoModel
 
 tokenizer = AutoTokenizer.from_pretrained("activebus/BERT_Review")
 model = AutoModel.from_pretrained("activebus/BERT_Review")
