@@ -1,6 +1,6 @@
-# ReviewBERT on Transformers
+# Understanding Pre-trained BERT for Aspect-based Sentiment Analysis
 
-code base for the paper: Understanding Pre-trained BERT for Aspect-based Sentiment Analysis.
+code base for the paper: "Understanding Pre-trained BERT for Aspect-based Sentiment Analysis".
 We perform an analysis of pre-trained BERT model on reviews for aspect-based sentiment analysis (ABSA). 
 
 
