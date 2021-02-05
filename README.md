@@ -1,5 +1,5 @@
 # BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
-code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)", COLING 2020 paper "Understanding Pre-trained BERT for Aspect-based Sentiment Analysis" and (draft code of) Findings of EMNLP 2020 "DomBERT: Domain-oriented Language Model for Aspect-based Sentiment Analysis".
+code for our NAACL 2019 paper "[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242.pdf)", COLING 2020 paper "[Understanding Pre-trained BERT for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2011.00169)" and (draft code of) Findings of EMNLP 2020 "[DomBERT: Domain-oriented Language Model for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2004.13816)".
 
 We found that BERT domain post-training (e.g, 1 day of training) is an economic way to boost the performance of BERT, because it is much harder (e.g., 10 days of training) to learn a general knowledge shared across domains and, meanwhile, loosing the long-tailed domain-specific knowledge.
 
